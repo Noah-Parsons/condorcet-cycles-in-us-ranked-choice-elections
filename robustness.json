@@ -1,0 +1,315 @@
+[
+ {
+  "file": "Burlington_20090303_Mayor.tab",
+  "rule": "base",
+  "cw": "Andy Montroll",
+  "irv": "Bob Kiss",
+  "smith": [
+   "Andy Montroll"
+  ],
+  "n": 8984
+ },
+ {
+  "file": "Burlington_20090303_Mayor.tab",
+  "rule": "overvote_skipped",
+  "cw": "Andy Montroll",
+  "irv": "Bob Kiss",
+  "smith": [
+   "Andy Montroll"
+  ],
+  "n": 8984
+ },
+ {
+  "file": "Burlington_20090303_Mayor.tab",
+  "rule": "drop_overvoted",
+  "cw": "Andy Montroll",
+  "irv": "Bob Kiss",
+  "smith": [
+   "Andy Montroll"
+  ],
+  "n": 8978
+ },
+ {
+  "file": "Alaska_20220816_USHouse_Special.tab",
+  "rule": "base",
+  "cw": "Begich, Nick",
+  "irv": "Peltola, Mary S.",
+  "smith": [
+   "Begich, Nick"
+  ],
+  "n": 192289
+ },
+ {
+  "file": "Alaska_20220816_USHouse_Special.tab",
+  "rule": "overvote_skipped",
+  "cw": "Begich, Nick",
+  "irv": "Peltola, Mary S.",
+  "smith": [
+   "Begich, Nick"
+  ],
+  "n": 192289
+ },
+ {
+  "file": "Alaska_20220816_USHouse_Special.tab",
+  "rule": "drop_overvoted",
+  "cw": "Begich, Nick",
+  "irv": "Peltola, Mary S.",
+  "smith": [
+   "Begich, Nick"
+  ],
+  "n": 191528
+ },
+ {
+  "file": "Minneapolis_20211102_CityCouncilWard2.tab",
+  "rule": "base",
+  "cw": null,
+  "irv": "Robin Wonsley Worlobah",
+  "smith": [
+   "Cam Gordon",
+   "Robin Wonsley Worlobah",
+   "Yusra Arab"
+  ],
+  "n": 9799
+ },
+ {
+  "file": "Minneapolis_20211102_CityCouncilWard2.tab",
+  "rule": "overvote_skipped",
+  "cw": null,
+  "irv": "Robin Wonsley Worlobah",
+  "smith": [
+   "Cam Gordon",
+   "Robin Wonsley Worlobah",
+   "Yusra Arab"
+  ],
+  "n": 9799
+ },
+ {
+  "file": "Minneapolis_20211102_CityCouncilWard2.tab",
+  "rule": "drop_overvoted",
+  "cw": null,
+  "irv": "Robin Wonsley Worlobah",
+  "smith": [
+   "Cam Gordon",
+   "Robin Wonsley Worlobah",
+   "Yusra Arab"
+  ],
+  "n": 9776
+ },
+ {
+  "file": "PortlandME_20211102_CityCouncilAL.tab",
+  "rule": "base",
+  "cw": null,
+  "irv": "Rodriguez, Roberto",
+  "smith": [
+   "Mazer, Brandon J.",
+   "Rodriguez, Roberto"
+  ],
+  "n": 21284
+ },
+ {
+  "file": "PortlandME_20211102_CityCouncilAL.tab",
+  "rule": "overvote_skipped",
+  "cw": "Mazer, Brandon J.",
+  "irv": "Mazer, Brandon J.",
+  "smith": [
+   "Mazer, Brandon J."
+  ],
+  "n": 21284
+ },
+ {
+  "file": "PortlandME_20211102_CityCouncilAL.tab",
+  "rule": "drop_overvoted",
+  "cw": "Mazer, Brandon J.",
+  "irv": "Mazer, Brandon J.",
+  "smith": [
+   "Mazer, Brandon J."
+  ],
+  "n": 21095
+ },
+ {
+  "file": "Oakland_20221108_SchoolBoardD4.tab",
+  "rule": "base",
+  "cw": null,
+  "irv": "MIKE HUTCHINSON",
+  "smith": [
+   "MIKE HUTCHINSON",
+   "NICK RESNICK",
+   "PECOLIA MANIGO"
+  ],
+  "n": 30983
+ },
+ {
+  "file": "Oakland_20221108_SchoolBoardD4.tab",
+  "rule": "overvote_skipped",
+  "cw": null,
+  "irv": "MIKE HUTCHINSON",
+  "smith": [
+   "MIKE HUTCHINSON",
+   "NICK RESNICK",
+   "PECOLIA MANIGO"
+  ],
+  "n": 30983
+ },
+ {
+  "file": "Oakland_20221108_SchoolBoardD4.tab",
+  "rule": "drop_overvoted",
+  "cw": null,
+  "irv": "MIKE HUTCHINSON",
+  "smith": [
+   "MIKE HUTCHINSON",
+   "NICK RESNICK",
+   "PECOLIA MANIGO"
+  ],
+  "n": 30729
+ },
+ {
+  "file": "NewYorkCity_20210622_REP_CityCouncilD15.tab",
+  "rule": "base",
+  "cw": "Ariel Rivera-Diaz",
+  "irv": "Ariel Rivera-Diaz",
+  "smith": [
+   "Ariel Rivera-Diaz"
+  ],
+  "n": 127235
+ },
+ {
+  "file": "NewYorkCity_20210622_REP_CityCouncilD15.tab",
+  "rule": "overvote_skipped",
+  "cw": "Ariel Rivera-Diaz",
+  "irv": "Ariel Rivera-Diaz",
+  "smith": [
+   "Ariel Rivera-Diaz"
+  ],
+  "n": 127235
+ },
+ {
+  "file": "NewYorkCity_20210622_REP_CityCouncilD15.tab",
+  "rule": "drop_overvoted",
+  "cw": "Ariel Rivera-Diaz",
+  "irv": "Ariel Rivera-Diaz",
+  "smith": [
+   "Ariel Rivera-Diaz"
+  ],
+  "n": 127231
+ },
+ {
+  "file": "Alaska_20221108_HouseDistrict15.tab",
+  "rule": "base",
+  "cw": "McKay, Thomas W. \\Tom\\",
+  "irv": "McKay, Thomas W. \\Tom\\",
+  "smith": [
+   "McKay, Thomas W. \\Tom\\"
+  ],
+  "n": 7709
+ },
+ {
+  "file": "Alaska_20221108_HouseDistrict15.tab",
+  "rule": "overvote_skipped",
+  "cw": "McKay, Thomas W. \\Tom\\",
+  "irv": "McKay, Thomas W. \\Tom\\",
+  "smith": [
+   "McKay, Thomas W. \\Tom\\"
+  ],
+  "n": 7709
+ },
+ {
+  "file": "Alaska_20221108_HouseDistrict15.tab",
+  "rule": "drop_overvoted",
+  "cw": "McKay, Thomas W. \\Tom\\",
+  "irv": "McKay, Thomas W. \\Tom\\",
+  "smith": [
+   "McKay, Thomas W. \\Tom\\"
+  ],
+  "n": 7696
+ },
+ {
+  "file": "Minnetonka_20231107_CityCouncilWard3.tab",
+  "rule": "base",
+  "cw": "Paula Ramaley",
+  "irv": "Paula Ramaley",
+  "smith": [
+   "Paula Ramaley"
+  ],
+  "n": 3495
+ },
+ {
+  "file": "Minnetonka_20231107_CityCouncilWard3.tab",
+  "rule": "overvote_skipped",
+  "cw": "Paula Ramaley",
+  "irv": "Paula Ramaley",
+  "smith": [
+   "Paula Ramaley"
+  ],
+  "n": 3495
+ },
+ {
+  "file": "Minnetonka_20231107_CityCouncilWard3.tab",
+  "rule": "drop_overvoted",
+  "cw": "Paula Ramaley",
+  "irv": "Paula Ramaley",
+  "smith": [
+   "Paula Ramaley"
+  ],
+  "n": 3493
+ },
+ {
+  "file": "Alaska_20241105_StateHouseD28.tab",
+  "rule": "base",
+  "cw": "Moore, Elexie",
+  "irv": "Moore, Elexie",
+  "smith": [
+   "Moore, Elexie"
+  ],
+  "n": 9009
+ },
+ {
+  "file": "Alaska_20241105_StateHouseD28.tab",
+  "rule": "overvote_skipped",
+  "cw": "Moore, Elexie",
+  "irv": "Moore, Elexie",
+  "smith": [
+   "Moore, Elexie"
+  ],
+  "n": 9009
+ },
+ {
+  "file": "Alaska_20241105_StateHouseD28.tab",
+  "rule": "drop_overvoted",
+  "cw": "Moore, Elexie",
+  "irv": "Moore, Elexie",
+  "smith": [
+   "Moore, Elexie"
+  ],
+  "n": 8989
+ },
+ {
+  "file": "Corvallis_20221108_Mayor.tab",
+  "rule": "base",
+  "cw": "Charles Maughan",
+  "irv": "Charles Maughan",
+  "smith": [
+   "Charles Maughan"
+  ],
+  "n": 23879
+ },
+ {
+  "file": "Corvallis_20221108_Mayor.tab",
+  "rule": "overvote_skipped",
+  "cw": "Charles Maughan",
+  "irv": "Charles Maughan",
+  "smith": [
+   "Charles Maughan"
+  ],
+  "n": 23879
+ },
+ {
+  "file": "Corvallis_20221108_Mayor.tab",
+  "rule": "drop_overvoted",
+  "cw": "Charles Maughan",
+  "irv": "Charles Maughan",
+  "smith": [
+   "Charles Maughan"
+  ],
+  "n": 23809
+ }
+]

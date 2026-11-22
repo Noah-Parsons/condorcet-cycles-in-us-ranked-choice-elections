@@ -1,0 +1,607 @@
+file,year,candidates,ballots,condorcet_winner,irv_winner,smith_set,irv_in_smith,agrees
+TakomaPark_20221108_CityCouncilWard4.tab,2022,2,576,Terry Seamens,Terry Seamens,Terry Seamens,True,True
+USVirginIslands_20240208_RepublicanPresidentialNomineeofficial.tab,2024,6,270,Donald J. Trump,Donald J. Trump,Donald J. Trump,True,True
+TakomaPark_20221108_CityCouncilWard5.tab,2022,4,487,Cara Honzak,Cara Honzak,Cara Honzak,True,True
+TakomaPark_20221108_CityCouncilWard2.tab,2022,2,1072,Cindy Dyballa,Cindy Dyballa,Cindy Dyballa,True,True
+WoodlandHills_20211102_Mayor.tab,2021,3,658,BRENT WINDER,BRENT WINDER,BRENT WINDER,True,True
+TakomaPark_20221108_CityCouncilWard6.tab,2022,5,652,Jason Small,Jason Small,Jason Small,True,True
+Burlington_20230307_CityCouncilWard8.tab,2023,3,433,HANNAH KING,HANNAH KING,HANNAH KING,True,True
+StLouisPark_20211102_CityCouncilWard4.tab,2021,2,757,Tim Brausen,Tim Brausen,Tim Brausen,True,True
+ElkRidge_20211102_Mayor.tab,2021,3,1311,ROBERT HADDOCK,ROBERT HADDOCK,ROBERT HADDOCK,True,True
+TakomaPark_20221108_CityCouncilWard3.tab,2022,4,1373,Randy Gibson,Randy Gibson,Randy Gibson,True,True
+TakomaPark_20221108_CityCouncilWard1.tab,2022,4,1364,Shana Fulcher,Shana Fulcher,Shana Fulcher,True,True
+StLouisPark_20211102_CityCouncilWard1.tab,2021,2,933,Margaret Rog,Margaret Rog,Margaret Rog,True,True
+Vineyard_20211102_Mayor.tab,2021,3,1540,JULIE FULLMER,JULIE FULLMER,JULIE FULLMER,True,True
+Minneapolis_20091106_Ward6CityCouncil.tab,2009,7,1982,Robert Lilligren,Robert Lilligren,Robert Lilligren,True,True
+Minneapolis_20091106_Ward3CityCouncil.tab,2009,5,2257,Diane Hofstede,Diane Hofstede,Diane Hofstede,True,True
+Minneapolis_20091106_Ward5CityCouncil.tab,2009,6,2200,Don Samuels,Don Samuels,Don Samuels,True,True
+StLouisPark_20211102_CityCouncilWard3.tab,2021,4,1359,Sue Budd,Sue Budd,Sue Budd,True,True
+Minneapolis_20091106_Ward2CityCouncil.tab,2009,3,2842,Cam Gordon,Cam Gordon,Cam Gordon,True,True
+Minneapolis_20231107_CityCouncilW2.tab,2023,3,2075,Robin Wonsley,Robin Wonsley,Robin Wonsley,True,True
+NewYorkCity_20230627_REP_CityCouncilD44.tab,2023,3,2210,Kalman Yeger,Kalman Yeger,Kalman Yeger,True,True
+Berkeley_20141104_CityCouncilDistrict7.tab,2014,2,1786,KRISS WORTHINGTON,KRISS WORTHINGTON,KRISS WORTHINGTON,True,True
+Minneapolis_20091106_Ward9CityCouncil.tab,2009,5,3035,Gary Schiff,Gary Schiff,Gary Schiff,True,True
+Minnetonka_20231107_CityCouncilWard2.tab,2023,3,2526,Rebecca Schack,Rebecca Schack,Rebecca Schack,True,True
+NewYorkCity_20250624_REPCityCouncilD47.tab,2025,3,2288,George Sarantopoulos,George Sarantopoulos,George Sarantopoulos,True,True
+StLouisPark_20211102_CityCouncilWard2.tab,2021,3,1611,Lynette Lungay Dumalag,Lynette Lungay Dumalag,Lynette Lungay Dumalag,True,True
+Minneapolis_20091106_Ward10CityCouncil.tab,2009,5,3431,Meg Tuthill,Meg Tuthill,Meg Tuthill,True,True
+Minneapolis_20091106_Ward4CityCouncil.tab,2009,5,3322,Barbara A. Johnson,Barbara A. Johnson,Barbara A. Johnson,True,True
+Minneapolis_20091106_Ward8CityCouncil.tab,2009,6,3239,Elizabeth Glidden,Elizabeth Glidden,Elizabeth Glidden,True,True
+Berkeley_20170307_CityCouncilDistrict4.tab,2017,2,2620,KATE HARRISON,KATE HARRISON,KATE HARRISON,True,True
+Maine_20200714_StateHouseDistrict90_DemNominee.tab,2020,3,2083,"Crafts, Lydia V.","Crafts, Lydia V.","Crafts, Lydia V.",True,True
+LasCruces_20191105_CityCouncilDistrict4.tab,2019,3,1689,JOHANA BENCOMO,JOHANA BENCOMO,JOHANA BENCOMO,True,True
+Minneapolis_20091106_Ward1CityCouncil.tab,2009,6,4016,Kevin Reich,Kevin Reich,Kevin Reich,True,True
+Minnetonka_20231107_CityCouncilWard3.tab,2023,4,3495,Paula Ramaley,Paula Ramaley,Paula Ramaley,True,True
+Minneapolis_20091106_Ward11CityCouncil.tab,2009,4,4235,John Quincy,John Quincy,John Quincy,True,True
+Minnetonka_20231107_CityCouncilWard1.tab,2023,5,3159,Patsy Foster-Bolton,Patsy Foster-Bolton,Patsy Foster-Bolton,True,True
+RedondoBeach_20250304_CityCouncilD4.tab,2025,3,1830,ZEIN OBAGI JR,ZEIN OBAGI JR,ZEIN OBAGI JR,True,True
+Burlington_20230307_CityCouncilEastDistrict.tab,2023,3,1467,"TIMOTHY C. DOHERTY,JR","TIMOTHY C. DOHERTY,JR","TIMOTHY C. DOHERTY,JR",True,True
+Minneapolis_20131105_CityCouncilWard5.tab,2013,5,3622,BLONG YANG,BLONG YANG,BLONG YANG,True,True
+Minneapolis_20091106_Ward7CityCouncil.tab,2009,4,4532,Lisa Goodman,Lisa Goodman,Lisa Goodman,True,True
+Maine_20200714_StateHouseDistrict49_DemNominee.tab,2020,3,2358,"Arford, Poppy","Arford, Poppy","Arford, Poppy",True,True
+Minnetonka_20231107_CityCouncilWard4.tab,2023,4,3567,Kissy C. Coakley,Kissy C. Coakley,Kissy C. Coakley,True,True
+Maine_20200714_StateHouseDistrict47_DemNominee.tab,2020,3,2624,"Bell, Arthur L.","Bell, Arthur L.","Bell, Arthur L.",True,True
+Minneapolis_20231107_CityCouncilW4.tab,2023,5,3430,LaTrisha M. Vetaw,LaTrisha M. Vetaw,LaTrisha M. Vetaw,True,True
+PortlandME_20220614_SchoolBoardDistrict5.tab,2022,6,2131,"Brydon, Sarah M.","Brydon, Sarah M.","Brydon, Sarah M.",True,True
+Minneapolis_20231107_CityCouncilW5.tab,2023,4,3194,Jeremiah Bey Ellison,Jeremiah Bey Ellison,Jeremiah Bey Ellison,True,True
+NewYorkCity_20230627_REP_CityCouncilD20.tab,2023,3,4113,Yu-Ching James Pai,Yu-Ching James Pai,Yu-Ching James Pai,True,True
+NewYorkCity_20230627_DEM_CityCouncilD14.tab,2023,3,3300,Pierina A. Sanchez,Pierina A. Sanchez,Pierina A. Sanchez,True,True
+RedondoBeach_20250304_CityCouncilD2.tab,2025,3,2090,CHADWICK CASTLE,CHADWICK CASTLE,CHADWICK CASTLE,True,True
+NewYorkCity_20230627_REP_CityCouncilD48.tab,2023,3,4112,Inna Vernikov,Inna Vernikov,Inna Vernikov,True,True
+Minneapolis_20091106_Ward12CityCouncil.tab,2009,5,4818,Sandy Colvin Roy,Sandy Colvin Roy,Sandy Colvin Roy,True,True
+NewYorkCity_20250624_REPCityCouncilD48.tab,2025,3,4077,Inna Vernikov,Inna Vernikov,Inna Vernikov,True,True
+Maine_20200714_StateHouseDistrict41_DemNominee.tab,2020,3,2638,"Zager, Samuel Lewis","Zager, Samuel Lewis","Zager, Samuel Lewis",True,True
+NewYorkCity_20230627_REP_CityCouncilD43.tab,2023,3,4490,Ying Tan,Ying Tan,Ying Tan,True,True
+SantaFe_20180306_CityCouncilDistrict4.tab,2018,3,5080,JoAnne Vigil Coppler,JoAnne Vigil Coppler,JoAnne Vigil Coppler,True,True
+Minneapolis_20231107_CityCouncilW9.tab,2023,3,4327,Jason Chavez,Jason Chavez,Jason Chavez,True,True
+Minneapolis_20091106_ParksBoardD2.tab,2009,3,5944,Jon Olson,Jon Olson,Jon Olson,True,True
+Minneapolis_20131105_CityCouncilWard9.tab,2013,7,4310,ALONDRA CANO,ALONDRA CANO,ALONDRA CANO,True,True
+Berkeley_20181106_CityCouncilDistrict7.tab,2018,3,3206,RIGEL ROBINSON,RIGEL ROBINSON,RIGEL ROBINSON,True,True
+Minneapolis_20091106_Ward13CityCouncil.tab,2009,4,6059,Betsy Hodges,Betsy Hodges,Betsy Hodges,True,True
+Bloomington_20231107_CityCouncilD4.tab,2023,3,3298,Victor Rivas,Victor Rivas,Victor Rivas,True,True
+NewYorkCity_20230627_DEM_CityCouncilD34.tab,2023,3,3738,Jennifer Gutierrez,Jennifer Gutierrez,Jennifer Gutierrez,True,True
+Minneapolis_20231107_CityCouncilW1.tab,2023,3,4500,Elliott Payne,Elliott Payne,Elliott Payne,True,True
+Minneapolis_20091106_ParksBoardD3.tab,2009,3,6160,Scott Vreeland,Scott Vreeland,Scott Vreeland,True,True
+Burlington_20230307_CityCouncilSouthDistrict.tab,2023,4,1759,JOAN SHANNON,JOAN SHANNON,JOAN SHANNON,True,True
+Minneapolis_20171107_CityCouncilWard5.tab,2017,5,4278,Jeremiah Ellison,Jeremiah Ellison,Jeremiah Ellison,True,True
+LasCruces_20191105_CityCouncilDistrict2.tab,2019,4,2394,TESSA ABEYTA STUVE,TESSA ABEYTA STUVE,TESSA ABEYTA STUVE,True,True
+SantaFe_20180306_CityCouncilDistrict2.tab,2018,3,6433,Carol Romero-Wirth,Carol Romero-Wirth,Carol Romero-Wirth,True,True
+Minneapolis_20091106_ParksBoardD4.tab,2009,2,7389,Anita Tabb,Anita Tabb,Anita Tabb,True,True
+Springville_20211102_CityCouncil_2yrPartialTerm.tab,2021,3,6307,CHRIS SORENSEN,CHRIS SORENSEN,CHRIS SORENSEN,True,True
+Minneapolis_20231107_CityCouncilW6.tab,2023,5,5186,Jamal Osman,Jamal Osman,Jamal Osman,True,True
+NewYorkCity_20230627_CON_CityCouncilD13.tab,2023,4,4712,Kristy Marmorato,Kristy Marmorato,Kristy Marmorato,True,True
+NewYorkCity_20250624_REPCityCouncilD51.tab,2025,4,4070,Frank Morano,Frank Morano,Frank Morano,True,True
+Minneapolis_20091106_ParksBoardD1.tab,2009,4,6907,Liz Wielinski,Liz Wielinski,Liz Wielinski,True,True
+RedondoBeach_20250304_CityCouncilD1.tab,2025,4,2572,BRAD WALLER,BRAD WALLER,BRAD WALLER,True,True
+Corvallis_20221108_CityCouncilWard9.tab,2022,4,2929,Tony Cadena,Tony Cadena,Tony Cadena,True,True
+NewYorkCity_20250325_DEMCityCouncilD44.tab,2025,3,5695,Simcha Felder,Simcha Felder,Simcha Felder,True,True
+NewYorkCity_20230627_DEM_CityCouncilD43.tab,2023,4,4522,Susan Zhuang,Susan Zhuang,Susan Zhuang,True,True
+Burlington_20230307_CityCouncilCentralDistrict.tab,2023,3,2276,MELO GRANT,MELO GRANT,MELO GRANT,True,True
+TakomaPark_20221108_Mayor.tab,2022,4,5712,Talisha Searcy,Talisha Searcy,Talisha Searcy,True,True
+Springville_20211102_Mayor.tab,2021,3,6307,MATT PACKARD,MATT PACKARD,MATT PACKARD,True,True
+Minneapolis_20171107_CityCouncilWard9.tab,2017,5,5650,Alondra Cano,Alondra Cano,Alondra Cano,True,True
+NewYorkCity_20230627_REP_CityCouncilD47.tab,2023,4,5155,Ari Kagan,Ari Kagan,Ari Kagan,True,True
+NewYorkCity_20250624_REPComptroller.tab,2025,3,5570,Peter Kefalas,Peter Kefalas,Peter Kefalas,True,True
+Minneapolis_20231107_CityCouncilW11.tab,2023,3,5972,Emily Koski,Emily Koski,Emily Koski,True,True
+Minneapolis_20231107_CityCouncilW3.tab,2023,3,5699,Michael Rainville,Michael Rainville,Michael Rainville,True,True
+Minneapolis_20211102_CityCouncilWard6.tab,2021,3,6871,Jamal Osman,Jamal Osman,Jamal Osman,True,True
+NewYorkCity_20230627_DEM_CityCouncilD26.tab,2023,3,6173,Julie Won,Julie Won,Julie Won,True,True
+Minneapolis_20211102_CityCouncilWard5.tab,2021,8,5616,Jeremiah Ellison,Jeremiah Ellison,Jeremiah Ellison,True,True
+Minneapolis_20171107_CityCouncilWard2.tab,2017,2,7034,Cam Gordon,Cam Gordon,Cam Gordon,True,True
+Berkeley_20141104_CityCouncilDistrict8.tab,2014,4,4964,LORI DROSTE,LORI DROSTE,LORI DROSTE,True,True
+Minneapolis_20231107_CityCouncilW10.tab,2023,5,6316,Aisha Chughtai,Aisha Chughtai,Aisha Chughtai,True,True
+Berkeley_20101102_CityCouncilDistrict7.tab,2010,4,4862,KRISS WORTHINGTON,KRISS WORTHINGTON,KRISS WORTHINGTON,True,True
+Minneapolis_20091106_ParksBoardD6.tab,2009,5,10186,Brad Bourn,Brad Bourn,Brad Bourn,True,True
+Berkeley_20101102_CityCouncilDistrict8.tab,2010,4,5333,GORDON WOZNIAK,GORDON WOZNIAK,GORDON WOZNIAK,True,True
+Minneapolis_20171107_CityCouncilWard4.tab,2017,5,5349,Phillipe M. Cunningham,Phillipe M. Cunningham,Phillipe M. Cunningham,True,True
+Minneapolis_20171107_CityCouncilWard6.tab,2017,5,7397,Abdi Warsame,Abdi Warsame,Abdi Warsame,True,True
+Alaska_20221108_HouseDistrict18.tab,2022,4,2297,"Groh, Cliff","Groh, Cliff","Groh, Cliff",True,True
+Berkeley_20101102_CityCouncilDistrict4.tab,2010,5,5708,JESSE ARREGUIN,JESSE ARREGUIN,JESSE ARREGUIN,True,True
+NewYorkCity_20230627_DEM_CityCouncilD22.tab,2023,3,6339,Tiffany L. Caban,Tiffany L. Caban,Tiffany L. Caban,True,True
+Minneapolis_20211102_CityCouncilWard9.tab,2021,9,6983,Jason Chavez,Jason Chavez,Jason Chavez,True,True
+Minneapolis_20091106_ParksBoardD5.tab,2009,6,9382,Carol Kummer,Carol Kummer,Carol Kummer,True,True
+Alaska_20221108_HouseDistrict40.tab,2022,2,2476,"Patkotak, Josiah B. \Aullaqsruaq\","Patkotak, Josiah B. \Aullaqsruaq\","Patkotak, Josiah B. \Aullaqsruaq\",True,True
+Berkeley_20240528_CityCouncilDistrict4_Special.tab,2024,5,2335,IGOR A. TREGUB,IGOR A. TREGUB,IGOR A. TREGUB,True,True
+NewYorkCity_20230627_DEM_CityCouncilD25.tab,2023,4,5629,Shekar Krishnan,Shekar Krishnan,Shekar Krishnan,True,True
+Minneapolis_20131105_ParksBoardD2.tab,2013,3,8458,JON OLSON,JON OLSON,JON OLSON,True,True
+Berkeley_20181106_CityCouncilDistrict4.tab,2018,3,6037,KATE HARRISON,KATE HARRISON,KATE HARRISON,True,True
+NewYorkCity_20230627_REP_CityCouncilD13.tab,2023,4,6391,Kristy Marmorato,Kristy Marmorato,Kristy Marmorato,True,True
+NewYorkCity_20230627_DEM_CityCouncilD41.tab,2023,5,4657,Darlene Mealy,Darlene Mealy,Darlene Mealy,True,True
+Berkeley_20121106_CityCouncilDistrict3.tab,2012,3,6524,MAX ANDERSON,MAX ANDERSON,MAX ANDERSON,True,True
+Minneapolis_20200811_CityCouncilWard6_Special.tab,2020,13,8046,Jamal Osman,Jamal Osman,Jamal Osman,True,True
+NewYorkCity_20230627_DEM_CityCouncilD10.tab,2023,3,6677,Carmen N. De La Rosa,Carmen N. De La Rosa,Carmen N. De La Rosa,True,True
+NewYorkCity_20230627_DEM_CityCouncilD42.tab,2023,4,6281,Chris Banks,Chris Banks,Chris Banks,True,True
+Berkeley_20101102_CityCouncilDistrict1.tab,2010,5,6426,LINDA MAIO,LINDA MAIO,LINDA MAIO,True,True
+NewYorkCity_20230627_DEM_CityCouncilD2.tab,2023,3,7786,Carlina Rivera,Carlina Rivera,Carlina Rivera,True,True
+NewYorkCity_20230627_DEM_CityCouncilD23.tab,2023,4,6719,Linda Lee,Linda Lee,Linda Lee,True,True
+Burlington_20230307_CityCouncilNorthDistrict.tab,2023,2,3748,MARK BARLOW,MARK BARLOW,MARK BARLOW,True,True
+Berkeley_20141104_CityCouncilDistrict1.tab,2014,3,6109,LINDA MAIO,LINDA MAIO,LINDA MAIO,True,True
+Minneapolis_20211102_CityCouncilWard4.tab,2021,4,7500,LaTrisha Vetaw,LaTrisha Vetaw,LaTrisha Vetaw,True,True
+Minneapolis_20171107_CityCouncilWard8.tab,2017,5,8275,Andrea Jenkins,Andrea Jenkins,Andrea Jenkins,True,True
+NewYorkCity_20230627_DEM_CityCouncilD19.tab,2023,4,6236,Tony Avella,Tony Avella,Tony Avella,True,True
+Minneapolis_20171107_CityCouncilWard10.tab,2017,5,7911,Lisa Bender,Lisa Bender,Lisa Bender,True,True
+NewYorkCity_20230627_DEM_CityCouncilD29.tab,2023,4,6507,Lynn C. Schulman,Lynn C. Schulman,Lynn C. Schulman,True,True
+Berkeley_20121106_CityCouncilDistrict2.tab,2012,4,6839,DARRYL MOORE,DARRYL MOORE,DARRYL MOORE,True,True
+Burlington_20090303_Mayor.tab,2009,6,8984,Andy Montroll,Bob Kiss,Andy Montroll,False,False
+Berkeley_20181106_CityCouncilDistrict8.tab,2018,4,7119,LORI DROSTE,LORI DROSTE,LORI DROSTE,True,True
+Minneapolis_20231107_CityCouncilW7.tab,2023,4,7998,Katie Cashman,Katie Cashman,Katie Cashman,True,True
+Maine_20200714_StateSenateDistrict11_DemNominee.tab,2020,3,5723,"Curry, Glenn Chip","Curry, Glenn Chip","Curry, Glenn Chip",True,True
+Minneapolis_20231107_CityCouncilW8.tab,2023,5,8068,Andrea Jenkins,Andrea Jenkins,Andrea Jenkins,True,True
+Minneapolis_20171107_CityCouncilWard1.tab,2017,4,8864,Kevin Reich,Kevin Reich,Kevin Reich,True,True
+Berkeley_20121106_CityCouncilDistrict6.tab,2012,3,7943,SUSAN WENGRAF,SUSAN WENGRAF,SUSAN WENGRAF,True,True
+NewYorkCity_20230627_DEM_CityCouncilD13.tab,2023,5,6422,Marjorie Velazquez,Marjorie Velazquez,Marjorie Velazquez,True,True
+Minneapolis_20171107_CityCouncilWard7.tab,2017,5,9255,Lisa Goodman,Lisa Goodman,Lisa Goodman,True,True
+Burlington_20060307_Mayor.tab,2006,6,9865,Bob Kiss,Bob Kiss,Bob Kiss,True,True
+Alaska_20221108_HouseDistrict37.tab,2022,2,3665,"Edgmon, Bryce","Edgmon, Bryce","Edgmon, Bryce",True,True
+Minneapolis_20171107_CityCouncilWard11.tab,2017,4,9592,Jeremy Schroeder,Jeremy Schroeder,Jeremy Schroeder,True,True
+Alaska_20241105_StateHouseD40.tab,2024,4,3218,"Burke, Robyn \Niayuq\","Burke, Robyn \Niayuq\","Burke, Robyn \Niayuq\",True,True
+Minneapolis_20211102_CityCouncilWard2.tab,2021,6,9799,,Robin Wonsley Worlobah,Cam Gordon; Robin Wonsley Worlobah; Yusra Arab,True,False
+Berkeley_20161108_CityCouncilDistrict3.tab,2016,4,8276,BEN BARTLETT,BEN BARTLETT,BEN BARTLETT,True,True
+Berkeley_20161108_CityCouncilDistrict6.tab,2016,3,8478,SUSAN WENGRAF,SUSAN WENGRAF,SUSAN WENGRAF,True,True
+Berkeley_20121106_CityCouncilDistrict5.tab,2012,3,8767,LAURIE CAPITELLI,LAURIE CAPITELLI,LAURIE CAPITELLI,True,True
+Alaska_20221108_HouseDistrict38.tab,2022,2,3763,"McCormick, Conrad J. \C.J.\","McCormick, Conrad J. \C.J.\","McCormick, Conrad J. \C.J.\",True,True
+Minneapolis_20171107_CityCouncilWard12.tab,2017,4,10704,Andrew Johnson,Andrew Johnson,Andrew Johnson,True,True
+Minneapolis_20171107_CityCouncilWard3.tab,2017,5,9877,Steve Fletcher,Steve Fletcher,Steve Fletcher,True,True
+NewYorkCity_20230627_DEM_CityCouncilD12.tab,2023,4,7315,Kevin C. Riley,Kevin C. Riley,Kevin C. Riley,True,True
+PortlandME_20221108_SchoolBoardDistrict3.tab,2022,3,7518,"Opperman, Julianne R.","Opperman, Julianne R.","Opperman, Julianne R.",True,True
+Minneapolis_20171107_ParksBoardD2.tab,2017,3,11162,Kale Severson,Kale Severson,Kale Severson,True,True
+Alaska_20221108_HouseDistrict32.tab,2022,4,3406,"Stapp, Will B.","Stapp, Will B.","Stapp, Will B.",True,True
+Minneapolis_20131105_CityCouncilWard13.tab,2013,6,10742,LINEA PALMISANO,LINEA PALMISANO,LINEA PALMISANO,True,True
+Minneapolis_20211102_CityCouncilWard8.tab,2021,3,11326,Andrea Jenkins,Andrea Jenkins,Andrea Jenkins,True,True
+Berkeley_20161108_CityCouncilDistrict2.tab,2016,3,8123,CHERYL DAVILA,CHERYL DAVILA,CHERYL DAVILA,True,True
+Alaska_20221108_HouseDistrict39.tab,2022,3,3817,"Foster, Neal W.","Foster, Neal W.","Foster, Neal W.",True,True
+Minneapolis_20231107_CityCouncilW13.tab,2023,5,10028,Linea Palmisano,Linea Palmisano,Linea Palmisano,True,True
+Berkeley_20181106_CityCouncilDistrict1.tab,2018,4,8466,RASHI KESARWANI,RASHI KESARWANI,RASHI KESARWANI,True,True
+Minneapolis_20171107_CityCouncilWard13.tab,2017,3,11742,Linea Palmisano,Linea Palmisano,Linea Palmisano,True,True
+SanFrancisco_20061107_BoardofSupervisorsDistrict6.tab,2006,8,19915,Chris Daly,Chris Daly,Chris Daly,True,True
+NewYorkCity_20250624_DEMCityCouncilD16.tab,2025,3,10240,Althea V. Stevens,Althea V. Stevens,Althea V. Stevens,True,True
+NewYorkCity_20250429_DEMCityCouncilD51.tab,2025,4,9645,Frank Morano,Frank Morano,Frank Morano,True,True
+Alaska_20241105_StateHouseD18.tab,2024,3,4206,"Nelson, David","Nelson, David","Nelson, David",True,True
+Eastpointe_20201103_CityCouncil.tab,2020,3,18093,Sylvia L. Moore,Sylvia L. Moore,Sylvia L. Moore,True,True
+SanFrancisco_20061107_BoardofSupervisorsDistrict10.tab,2006,7,16703,Sophie Maxwell,Sophie Maxwell,Sophie Maxwell,True,True
+Minneapolis_20211102_CityCouncilWard7.tab,2021,5,12329,Lisa Goodman,Lisa Goodman,Lisa Goodman,True,True
+Minneapolis_20211102_CityCouncilWard10.tab,2021,7,11345,Aisha Chughtai,Aisha Chughtai,Aisha Chughtai,True,True
+Alaska_20241105_StateHouseD39.tab,2024,3,4197,"Foster, Neal W.","Foster, Neal W.","Foster, Neal W.",True,True
+Alaska_20221108_HouseDistrict19.tab,2022,3,3728,"Mina, Genevieve G.","Mina, Genevieve G.","Mina, Genevieve G.",True,True
+SanFrancisco_20061107_BoardofSupervisorsDistrict4.tab,2006,7,21985,Ed Jew,Ed Jew,Ed Jew,True,True
+Berkeley_20161108_CityCouncilDistrict5.tab,2016,2,10247,SOPHIE HAHN,SOPHIE HAHN,SOPHIE HAHN,True,True
+Minneapolis_20211102_CityCouncilWard1.tab,2021,5,12142,Elliott Payne,Elliott Payne,Elliott Payne,True,True
+Alaska_20241105_StateHouseD37.tab,2024,3,4298,"Edgmon, Bryce","Edgmon, Bryce","Edgmon, Bryce",True,True
+NewYorkCity_20250624_DEMCityCouncilD21.tab,2025,5,7875,Shanel Thomas-Henry,Shanel Thomas-Henry,Shanel Thomas-Henry,True,True
+Alaska_20241105_StateHouseD38.tab,2024,5,3742,"Jimmie, Nellie D. \Unangik\","Jimmie, Nellie D. \Unangik\","Jimmie, Nellie D. \Unangik\",True,True
+NewYorkCity_20230627_DEM_CityCouncilD1.tab,2023,5,8809,Christopher Marte,Christopher Marte,Christopher Marte,True,True
+Alaska_20221108_HouseDistrict22.tab,2022,3,3964,"Wright, Stanley A.","Wright, Stanley A.","Wright, Stanley A.",True,True
+NewYorkCity_20250624_DEMCityCouncilD19.tab,2025,3,11590,Benjamin Chou,Benjamin Chou,Benjamin Chou,True,True
+Minneapolis_20231107_CityCouncilW12.tab,2023,4,12167,Aurin Chowdhury,Aurin Chowdhury,Aurin Chowdhury,True,True
+Westbrook_20241105_Mayor.tab,2024,3,10768,"Morse, David","Morse, David","Morse, David",True,True
+NewYorkCity_20250624_DEMCityCouncilD14.tab,2025,4,10216,Pierina A. Sanchez,Pierina A. Sanchez,Pierina A. Sanchez,True,True
+NewYorkCity_20250624_DEMCityCouncilD38.tab,2025,3,14349,Alexa Aviles,Alexa Aviles,Alexa Aviles,True,True
+Minneapolis_20211102_CityCouncilWard11.tab,2021,6,13877,Emily Koski,Emily Koski,Emily Koski,True,True
+Minneapolis_20211102_ParkBoardDistrict2.tab,2021,4,15345,Becka Thompson,Becka Thompson,Becka Thompson,True,True
+NewYorkCity_20250624_DEMCityCouncilD17.tab,2025,5,9328,Justin E. Sanchez,Justin E. Sanchez,Justin E. Sanchez,True,True
+Alaska_20241105_StateHouseD32.tab,2024,3,5138,"Stapp, Will","Stapp, Will","Stapp, Will",True,True
+NewYorkCity_20250624_DEMCityCouncilD47.tab,2025,3,13269,Kayla Santosuosso,Kayla Santosuosso,Kayla Santosuosso,True,True
+Minneapolis_20211102_CityCouncilWard3.tab,2021,5,14438,Michael Rainville,Michael Rainville,Michael Rainville,True,True
+Minnetonka_20211102_Mayor.tab,2021,2,11350,Brad Wiersum,Brad Wiersum,Brad Wiersum,True,True
+Alaska_20241105_StateHouseD19.tab,2024,4,4800,"Mina, Genevieve G.","Mina, Genevieve G.","Mina, Genevieve G.",True,True
+PortlandME_20241105_CityCouncilDistrict2.tab,2024,6,7573,"Pelletier, Wesley K.","Pelletier, Wesley K.","Pelletier, Wesley K.",True,True
+Minneapolis_20211102_CityCouncilWard12.tab,2021,4,16083,Andrew Johnson,Andrew Johnson,Andrew Johnson,True,True
+Oakland_20141104_SchoolDirectorDistrict6.tab,2014,2,12377,SHANTHI GONZALES,SHANTHI GONZALES,SHANTHI GONZALES,True,True
+Minnetonka_20211102_CityCouncilAtLargeSeatB.tab,2021,5,11350,Kimberly Wilburn,Kimberly Wilburn,Kimberly Wilburn,True,True
+Minnetonka_20211102_CityCouncilAtLargeSeatA.tab,2021,5,11350,Deb Calvert,Deb Calvert,Deb Calvert,True,True
+NewYorkCity_20250624_DEMCityCouncilD30.tab,2025,4,12827,Phil Wong,Phil Wong,Phil Wong,True,True
+Alaska_20241105_StateHouseD22.tab,2024,3,5248,"Eischeid, Ted J.","Eischeid, Ted J.","Eischeid, Ted J.",True,True
+Oakland_20121106_SchoolDirectorDistrict5.tab,2012,3,13482,ROSIE TORRES,ROSIE TORRES,ROSIE TORRES,True,True
+NewYorkCity_20250624_DEMCityCouncilD25.tab,2025,3,14855,Shekar Krishnan,Shekar Krishnan,Shekar Krishnan,True,True
+Minneapolis_20171107_ParksBoardD4.tab,2017,3,18167,Jono Cowgill,Jono Cowgill,Jono Cowgill,True,True
+Minneapolis_20171107_ParksBoardD3.tab,2017,4,16601,AK Hassan,AK Hassan,AK Hassan,True,True
+Minneapolis_20131105_ParksBoardD6.tab,2013,3,18523,BRAD BOURN,BRAD BOURN,BRAD BOURN,True,True
+Oakland_20121106_CityCouncilDistrict5.tab,2012,5,13482,NOEL GALLO,NOEL GALLO,NOEL GALLO,True,True
+Oakland_20141104_CityCouncilDistrict6.tab,2014,5,12383,DESLEY BROOKS,DESLEY BROOKS,DESLEY BROOKS,True,True
+SanFrancisco_20061107_BoardofSupervisorsDistrict2.tab,2006,3,26186,Michela Alioto-pier,Michela Alioto-pier,Michela Alioto-pier,True,True
+Minneapolis_20211102_CityCouncilWard13.tab,2021,6,17028,Linea Palmisano,Linea Palmisano,Linea Palmisano,True,True
+Alaska_20221108_HouseDistrict31.tab,2022,4,5330,"Dibert, Maxine L.","Dibert, Maxine L.","Dibert, Maxine L.",True,True
+Minneapolis_20171107_ParksBoardD1.tab,2017,4,17785,Chris Meyer,Chris Meyer,Chris Meyer,True,True
+Oakland_20101102_SchoolDirectorDistrict6.tab,2010,2,14040,CHRISTOPHER DOBBINS,CHRISTOPHER DOBBINS,CHRISTOPHER DOBBINS,True,True
+Alaska_20221108_HouseDistrict33.tab,2022,2,6256,"Prax, Glenn M. \Mike\","Prax, Glenn M. \Mike\","Prax, Glenn M. \Mike\",True,True
+Oakland_20101102_SchoolDirectorDistrict2.tab,2010,2,15243,DAVID KAKISHIBA,DAVID KAKISHIBA,DAVID KAKISHIBA,True,True
+Alaska_20221108_HouseDistrict5.tab,2022,3,5989,"Stutes, Louise B.","Stutes, Louise B.","Stutes, Louise B.",True,True
+NewYorkCity_20230627_DEM_CityCouncilD9.tab,2023,5,11752,Yusef Salaam,Yusef Salaam,Yusef Salaam,True,True
+Oakland_20101102_CityCouncilDistrict6.tab,2010,4,14040,DESLEY BROOKS,DESLEY BROOKS,DESLEY BROOKS,True,True
+Minneapolis_20211102_ParkBoardDistrict3.tab,2021,4,19233,Becky Alper,Becky Alper,Becky Alper,True,True
+NewYorkCity_20250624_DEMCityCouncilD13.tab,2025,7,11440,Shirley Aldebol,Shirley Aldebol,Shirley Aldebol,True,True
+SanFrancisco_20041102_BoardofSupervisorsDistrict9.tab,2004,7,26275,Tom Ammiano,Tom Ammiano,Tom Ammiano,True,True
+NewYorkCity_20250624_DEMCityCouncilD46.tab,2025,3,16197,Mercedes Narcisse,Mercedes Narcisse,Mercedes Narcisse,True,True
+Oakland_20141104_CityCouncilDistrict2.tab,2014,5,15293,ABEL GUILLEN,ABEL GUILLEN,ABEL GUILLEN,True,True
+NewYorkCity_20250624_DEMCityCouncilD49.tab,2025,5,12391,Kamillah M. Hanks,Kamillah M. Hanks,Kamillah M. Hanks,True,True
+NewYorkCity_20250624_DEMCityCouncilD12.tab,2025,3,18180,Kevin C. Riley,Kevin C. Riley,Kevin C. Riley,True,True
+Alaska_20221108_HouseDistrict13.tab,2022,3,5790,"Josephson, Andy","Josephson, Andy","Josephson, Andy",True,True
+Alaska_20221108_HouseDistrict20.tab,2022,5,5469,"Gray, Andrew T.","Gray, Andrew T.","Gray, Andrew T.",True,True
+Oakland_20141104_SchoolDirectorDistrict2.tab,2014,2,15293,AIMEE ENG,AIMEE ENG,AIMEE ENG,True,True
+Alaska_20221108_HouseDistrict14.tab,2022,3,6155,"Galvin, Alyse S.","Galvin, Alyse S.","Galvin, Alyse S.",True,True
+SanFrancisco_20041102_BoardofSupervisorsDistrict11.tab,2004,8,24902,Gerardo Sandoval,Gerardo Sandoval,Gerardo Sandoval,True,True
+Oakland_20161108_CityCouncilDistrict5.tab,2016,2,16317,NOEL GALLO,NOEL GALLO,NOEL GALLO,True,True
+Alaska_20241105_StateHouseD31.tab,2024,3,6705,"Dibert, Maxine L.","Dibert, Maxine L.","Dibert, Maxine L.",True,True
+Oakland_20101102_CityCouncilDistrict2.tab,2010,3,15243,PATRICIA KERNIGHAN,PATRICIA KERNIGHAN,PATRICIA KERNIGHAN,True,True
+SanFrancisco_20141104_BoardofSupervisorsDistrict10.tab,2014,5,16342,MALIA COHEN,MALIA COHEN,MALIA COHEN,True,True
+RedondoBeach_20250304_CityAttorney.tab,2025,3,10763,JOY FORD,JOY FORD,JOY FORD,True,True
+Oakland_20161108_SchoolDirectorDistrict5.tab,2016,4,16317,ROSIE TORRES,ROSIE TORRES,ROSIE TORRES,True,True
+SanLeandro_20141104_CountyCouncilDistrict5.tab,2014,3,17200,CORINA LOPEZ,CORINA LOPEZ,CORINA LOPEZ,True,True
+Alaska_20241105_StateSenateT.tab,2024,2,7458,"Olson, Donald C. \Donny\","Olson, Donald C. \Donny\","Olson, Donald C. \Donny\",True,True
+Alaska_20241105_StateHouseD20.tab,2024,3,7003,"Gray, Andrew T.","Gray, Andrew T.","Gray, Andrew T.",True,True
+Bloomington_20231107_CityCouncilAL.tab,2023,3,20878,Chao Moua,Chao Moua,Chao Moua,True,True
+Alaska_20221108_HouseDistrict1.tab,2022,3,6888,"Ortiz, Daniel H. \Dan\","Ortiz, Daniel H. \Dan\","Ortiz, Daniel H. \Dan\",True,True
+SanFrancisco_20041105_BoardofSupervisorsDistrict1.tab,2004,7,30721,Jake McGoldrick,Jake McGoldrick,Jake McGoldrick,True,True
+Oakland_20121106_SchoolDirectorDistrict7.tab,2012,3,16440,JAMES HARRIS,JAMES HARRIS,JAMES HARRIS,True,True
+Minneapolis_20211102_ParkBoardDistrict1.tab,2021,2,24351,Billy Menz,Billy Menz,Billy Menz,True,True
+Minneapolis_20171107_ParksBoardD6.tab,2017,5,21598,Brad Bourn,Brad Bourn,Brad Bourn,True,True
+Oakland_20161108_SchoolDirectorDistrict7.tab,2016,2,17469,JAMES HARRIS,JAMES HARRIS,JAMES HARRIS,True,True
+Alaska_20241105_StateHouseD14.tab,2024,3,7119,"Galvin, Alyse S.","Galvin, Alyse S.","Galvin, Alyse S.",True,True
+Alaska_20241105_StateHouseD5.tab,2024,3,7789,"Stutes, Louise B.","Stutes, Louise B.","Stutes, Louise B.",True,True
+Minneapolis_20171107_ParksBoardD5.tab,2017,4,20615,Steffanie Musich,Steffanie Musich,Steffanie Musich,True,True
+SanLeandro_20141104_CountyCouncilDistrict3.tab,2014,3,17200,LEE THOMAS,LEE THOMAS,LEE THOMAS,True,True
+NewYorkCity_20250624_DEMCityCouncilD28.tab,2025,6,14201,Ty Hankerson,Ty Hankerson,Ty Hankerson,True,True
+Alaska_20221108_HouseDistrict17.tab,2022,3,6465,"Fields, William Z. \Zack\","Fields, William Z. \Zack\","Fields, William Z. \Zack\",True,True
+Alaska_20221108_SenateDistrictS.tab,2022,3,7428,"Hoffman, Lyman F.","Hoffman, Lyman F.","Hoffman, Lyman F.",True,True
+Alaska_20221108_HouseDistrict12.tab,2022,3,6774,"Schrage, Calvin R.","Schrage, Calvin R.","Schrage, Calvin R.",True,True
+Alaska_20221108_HouseDistrict26.tab,2022,3,7213,"Tilton, Cathy L.","Tilton, Cathy L.","Tilton, Cathy L.",True,True
+Berkeley_20241105_CityCouncilD3.tab,2024,4,7563,BEN BARTLETT,BEN BARTLETT,BEN BARTLETT,True,True
+Alaska_20221108_HouseDistrict2.tab,2022,3,7567,"Himschoot, Rebecca","Himschoot, Rebecca","Himschoot, Rebecca",True,True
+Oakland_20121106_CityCouncilDistrict7.tab,2012,4,17014,LARRY E. REID,LARRY E. REID,LARRY E. REID,True,True
+Berkeley_20241105_CityCouncilD2.tab,2024,3,7870,TERRY TAPLIN,TERRY TAPLIN,TERRY TAPLIN,True,True
+Alaska_20241105_StateHouseD17.tab,2024,2,7512,"Fields, William Z. \Zack\","Fields, William Z. \Zack\","Fields, William Z. \Zack\",True,True
+Alaska_20221108_HouseDistrict7.tab,2022,3,7443,"Ruffridge, Justin","Ruffridge, Justin","Ruffridge, Justin",True,True
+SanFrancisco_20041102_BoardofSupervisorsDistrict3.tab,2004,4,28317,Arron Peskin,Arron Peskin,Arron Peskin,True,True
+Alaska_20221108_HouseDistrict27.tab,2022,4,6678,"Eastman, David","Eastman, David","Eastman, David",True,True
+Alaska_20221108_HouseDistrict4.tab,2022,3,7713,"Hannan, Sara","Hannan, Sara","Hannan, Sara",True,True
+SanLeandro_20141104_CountyCouncilDistrict1.tab,2014,4,17200,DEBORAH COX,DEBORAH COX,DEBORAH COX,True,True
+Oakland_20161108_CityCouncilDistrict7.tab,2016,3,18069,LARRY E. REID,LARRY E. REID,LARRY E. REID,True,True
+NewYorkCity_20250624_DEMCityCouncilD11.tab,2025,3,19595,Eric Dinowitz,Eric Dinowitz,Eric Dinowitz,True,True
+SanFrancisco_20061107_BoardofSupervisorsDistrict8.tab,2006,4,35117,Bevan Dufty,Bevan Dufty,Bevan Dufty,True,True
+Alaska_20241105_StateHouseD13.tab,2024,3,7302,"Josephson, Andrew L. \Andy\","Josephson, Andrew L. \Andy\","Josephson, Andrew L. \Andy\",True,True
+Alaska_20221108_HouseDistrict21.tab,2022,3,7313,"Mears, Donna C.","Mears, Donna C.","Mears, Donna C.",True,True
+SanLeandro_20141104_Mayor.tab,2014,4,17200,PAULINE RUSSO CUTTER,PAULINE RUSSO CUTTER,PAULINE RUSSO CUTTER,True,True
+Alaska_20241105_StateHouseD33.tab,2024,2,8712,"Prax, Glenn \Mike\","Prax, Glenn \Mike\","Prax, Glenn \Mike\",True,True
+Alaska_20221108_HouseDistrict10.tab,2022,4,7153,"Johnson, Craig W.","Johnson, Craig W.","Johnson, Craig W.",True,True
+SanFrancisco_20151103_BoardofSupervisorsDistrict3.tab,2015,3,17554,AARON PESKIN,AARON PESKIN,AARON PESKIN,True,True
+Alaska_20221108_HouseDistrict8.tab,2022,2,8793,"Carpenter, Ben","Carpenter, Ben","Carpenter, Ben",True,True
+Alaska_20241105_StateHouseD4.tab,2024,2,9136,"Hannan, Sara","Hannan, Sara","Hannan, Sara",True,True
+Alaska_20221108_HouseDistrict28.tab,2022,5,7098,"Sumner, Jesse M.","Sumner, Jesse M.","Sumner, Jesse M.",True,True
+RedondoBeach_20250304_Mayor.tab,2025,6,11157,JAMES A LIGHT,JAMES A LIGHT,JAMES A LIGHT,True,True
+Alaska_20221108_HouseDistrict36.tab,2022,3,7952,"Cronk, Mike","Cronk, Mike","Cronk, Mike",True,True
+Alaska_20221108_HouseDistrict29.tab,2022,3,8220,"Rauscher, George","Rauscher, George","Rauscher, George",True,True
+Berkeley_20241105_CityCouncilD6.tab,2024,3,8536,BRENT BLACKABY,BRENT BLACKABY,BRENT BLACKABY,True,True
+Oakland_20181106_SchoolDirectorDistrict6.tab,2018,2,19539,SHANTHI GONZALES,SHANTHI GONZALES,SHANTHI GONZALES,True,True
+Alaska_20241105_StateHouseD2.tab,2024,2,9472,"Himschoot, Rebecca","Himschoot, Rebecca","Himschoot, Rebecca",True,True
+Alaska_20221108_HouseDistrict34.tab,2022,4,7693,"Tomaszewski, Frank J.","Tomaszewski, Frank J.","Tomaszewski, Frank J.",True,True
+Oakland_20141104_SchoolDirectorDistrict4.tab,2014,4,20018,NINA SENN,NINA SENN,NINA SENN,True,True
+Alaska_20241105_StateHouseD26.tab,2024,2,9184,"Tilton, Cathy","Tilton, Cathy","Tilton, Cathy",True,True
+Alaska_20221108_HouseDistrict3.tab,2022,2,8804,"Story, Andrea \Andi\","Story, Andrea \Andi\","Story, Andrea \Andi\",True,True
+Minneapolis_20211102_ParkBoardDistrict4.tab,2021,3,25623,Elizabeth Shaffer,Elizabeth Shaffer,Elizabeth Shaffer,True,True
+Berkeley_20201103_CityCouncilD6.tab,2020,3,8579,SUSAN WENGRAF,SUSAN WENGRAF,SUSAN WENGRAF,True,True
+Alaska_20241105_StateHouseD27.tab,2024,3,8527,"Underwood, Jubilee L.","Underwood, Jubilee L.","Underwood, Jubilee L.",True,True
+Alaska_20221108_HouseDistrict25.tab,2022,3,8378,"Johnson, DeLena M.","Johnson, DeLena M.","Johnson, DeLena M.",True,True
+NewYorkCity_20250624_DEMCityCouncilD8.tab,2025,8,15726,Elsie Encarnacion,Elsie Encarnacion,Elsie Encarnacion,True,True
+NewYorkCity_20250624_DEMCityCouncilD41.tab,2025,9,16380,Darlene Mealy,Darlene Mealy,Darlene Mealy,True,True
+Alaska_20221108_HouseDistrict23.tab,2022,3,8336,"Allard, Jamie","Allard, Jamie","Allard, Jamie",True,True
+Alaska_20241105_StateHouseD1.tab,2024,4,8500,"Bynum, Jeremy T.","Bynum, Jeremy T.","Bynum, Jeremy T.",True,True
+Oakland_20181106_SchoolDirectorDistrict2.tab,2018,1,23677,AIMEE ENG,AIMEE ENG,AIMEE ENG,True,True
+Oakland_20181106_CityCouncilDistrict6.tab,2018,5,19547,LOREN TAYLOR,LOREN TAYLOR,LOREN TAYLOR,True,True
+Alaska_20221108_HouseDistrict24.tab,2022,4,7996,"Saddler, Dan","Saddler, Dan","Saddler, Dan",True,True
+SantaFe_20180306_Mayor.tab,2018,5,20670,Alan Webber,Alan Webber,Alan Webber,True,True
+Alaska_20241105_StateHouseD21.tab,2024,3,8767,"Mears, Donna C.","Mears, Donna C.","Mears, Donna C.",True,True
+Alaska_20241105_StateHouseD10.tab,2024,3,8654,"Kopp, Charles M. \Chuck\","Kopp, Charles M. \Chuck\","Kopp, Charles M. \Chuck\",True,True
+Berkeley_20201103_CityCouncilD3.tab,2020,4,8669,BEN BARTLETT,BEN BARTLETT,BEN BARTLETT,True,True
+Alaska_20221108_HouseDistrict30.tab,2022,4,8135,"McCabe, Kevin J.","McCabe, Kevin J.","McCabe, Kevin J.",True,True
+Alaska_20221108_HouseDistrict16.tab,2022,3,8068,"Armstrong, Jennifer \Jennie\","Armstrong, Jennifer \Jennie\","Armstrong, Jennifer \Jennie\",True,True
+SanFrancisco_20101102_BoardofSupervisorsDistrict10.tab,2010,22,20550,MALIA COHEN,MALIA COHEN,MALIA COHEN,True,True
+Alaska_20241105_StateHouseD24.tab,2024,2,9950,"Saddler, Dan","Saddler, Dan","Saddler, Dan",True,True
+Alaska_20241105_StateHouseD12.tab,2024,3,8341,"Schrage, Calvin R.","Schrage, Calvin R.","Schrage, Calvin R.",True,True
+Alaska_20221108_HouseDistrict11.tab,2022,4,8190,"Coulombe, Julie","Coulombe, Julie","Coulombe, Julie",True,True
+Alaska_20221108_HouseDistrict15.tab,2022,4,7709,"McKay, Thomas W. \Tom\","McKay, Thomas W. \Tom\","McKay, Thomas W. \Tom\",True,True
+Alaska_20221108_HouseDistrict35.tab,2022,5,7878,"Carrick, Ashley E.","Carrick, Ashley E.","Carrick, Ashley E.",True,True
+Alaska_20241105_StateHouseD29.tab,2024,2,10278,"Rauscher, George","Rauscher, George","Rauscher, George",True,True
+Alaska_20241105_StateHouseD28.tab,2024,4,9009,"Moore, Elexie","Moore, Elexie","Moore, Elexie",True,True
+SanLeandro_20101102_CountyCouncilDistrict3.tab,2010,2,23494,DIANA M. SOUZA,DIANA M. SOUZA,DIANA M. SOUZA,True,True
+Alaska_20221108_SenateDistrictI.tab,2022,3,8762,"Tobin, Löki G.","Tobin, Löki G.","Tobin, Löki G.",True,True
+SanFrancisco_20041102_BoardofSupervisorsDistrict5.tab,2004,22,39255,Ross Mirkarimi,Ross Mirkarimi,Ross Mirkarimi,True,True
+Alaska_20241105_StateHouseD25.tab,2024,2,10208,"Johnson, DeLena M.","Johnson, DeLena M.","Johnson, DeLena M.",True,True
+Berkeley_20201103_CityCouncilD2.tab,2020,5,8984,TERRY TAPLIN,TERRY TAPLIN,TERRY TAPLIN,True,True
+Alaska_20241105_StateHouseD7.tab,2024,3,9452,"Ruffridge, Justin M.","Ruffridge, Justin M.","Ruffridge, Justin M.",True,True
+Alaska_20241105_StateHouseD35.tab,2024,3,9511,"Carrick, Ashley E.","Carrick, Ashley E.","Carrick, Ashley E.",True,True
+Alaska_20241105_StateHouseD16.tab,2024,3,9487,"Hall, Carolyn","Hall, Carolyn","Hall, Carolyn",True,True
+Alaska_20221108_SenateDistrictP.tab,2022,4,8736,"Kawasaki, Scott","Kawasaki, Scott","Kawasaki, Scott",True,True
+Oakland_20101102_SchoolDirectorDistrict4.tab,2010,3,23884,GARY D. YEE,GARY D. YEE,GARY D. YEE,True,True
+Oakland_20141104_CityCouncilDistrict4.tab,2014,3,20018,ANNIE CAMPBELL WASHINGTON,ANNIE CAMPBELL WASHINGTON,ANNIE CAMPBELL WASHINGTON,True,True
+Alaska_20241105_StateHouseD34.tab,2024,3,9660,"Tomaszewski, Frank","Tomaszewski, Frank","Tomaszewski, Frank",True,True
+Alaska_20241105_StateHouseD11.tab,2024,3,9691,"Coulombe, Julie","Coulombe, Julie","Coulombe, Julie",True,True
+SanFrancisco_20041102_BoardofSupervisorsDistrict2.tab,2004,5,39462,Michela Alioto-pier,Michela Alioto-pier,Michela Alioto-pier,True,True
+NewYorkCity_20250624_DEMCityCouncilD10.tab,2025,3,23505,Carmen N. De La Rosa,Carmen N. De La Rosa,Carmen N. De La Rosa,True,True
+SanFrancisco_20041102_BoardofSupervisorsDistrict7.tab,2004,13,34905,Sean R. Elsbernd,Sean R. Elsbernd,Sean R. Elsbernd,True,True
+Minneapolis_20211102_ParkBoardDistrict6.tab,2021,5,30477,Cathy Abene,Cathy Abene,Cathy Abene,True,True
+Alaska_20241105_StateHouseD30.tab,2024,3,10009,"McCabe, Kevin J.","McCabe, Kevin J.","McCabe, Kevin J.",True,True
+Alaska_20241105_StateHouseD8.tab,2024,3,10672,"Elam, Bill","Elam, Bill","Elam, Bill",True,True
+Alaska_20241105_StateHouseD3.tab,2024,2,10949,"Story, Andrea \Andi\","Story, Andrea \Andi\","Story, Andrea \Andi\",True,True
+Alaska_20241105_StateHouseD15.tab,2024,4,9136,"Costello, Mia","Costello, Mia","Costello, Mia",True,True
+Berkeley_20241105_CityCouncilD5.tab,2024,4,10258,SHOSHANA O'KEEFE,SHOSHANA O'KEEFE,SHOSHANA O'KEEFE,True,True
+Alaska_20241105_StateHouseD23.tab,2024,3,10481,"Allard, Jamie","Allard, Jamie","Allard, Jamie",True,True
+Oakland_20101102_CityCouncilDistrict4.tab,2010,8,23884,LIBBY SCHAAF,LIBBY SCHAAF,LIBBY SCHAAF,True,True
+Minneapolis_20211102_ParkBoardDistrict5.tab,2021,4,30308,Steffanie Musich,Steffanie Musich,Steffanie Musich,True,True
+Alaska_20221108_SenateDistrictJ.tab,2022,4,9197,"Dunbar, Forrest","Dunbar, Forrest","Dunbar, Forrest",True,True
+SanLeandro_20101102_CountyCouncilDistrict5.tab,2010,3,23494,PAULINE RUSSO CUTTER,PAULINE RUSSO CUTTER,PAULINE RUSSO CUTTER,True,True
+SanFrancisco_20101102_BoardofSupervisorsDistrict6.tab,2010,15,25057,JANE KIM,JANE KIM,JANE KIM,True,True
+Alaska_20221108_HouseDistrict6.tab,2022,4,9847,"Vance, Sarah L.","Vance, Sarah L.","Vance, Sarah L.",True,True
+Alaska_20221108_HouseDistrict9.tab,2022,3,10284,"Shaw, Laddie H.","Shaw, Laddie H.","Shaw, Laddie H.",True,True
+SanLeandro_20101102_CountyCouncilDistrict1.tab,2010,4,23494,MICHAEL J. GREGORY,MICHAEL J. GREGORY,MICHAEL J. GREGORY,True,True
+Alaska_20241105_StateHouseD36.tab,2024,5,9449,"Schwanke, Rebecca A.","Schwanke, Rebecca A.","Schwanke, Rebecca A.",True,True
+Oakland_20181106_CityCouncilDistrict2.tab,2018,3,23677,NIKKI FORTUNATO BAS,NIKKI FORTUNATO BAS,NIKKI FORTUNATO BAS,True,True
+SanLeandro_20181106_CountyCouncilDistrict1.tab,2018,3,27767,DEBORAH COX,DEBORAH COX,DEBORAH COX,True,True
+Berkeley_20201103_CityCouncilD5.tab,2020,4,10970,SOPHIE HAHN,SOPHIE HAHN,SOPHIE HAHN,True,True
+SanFrancisco_20081104_BoardofSupervisorsDistrict11.tab,2008,10,26909,JOHN AVALOS,JOHN AVALOS,JOHN AVALOS,True,True
+NewYorkCity_20250624_DEMCityCouncilD36.tab,2025,3,30499,Chi Ajani Osse,Chi Ajani Osse,Chi Ajani Osse,True,True
+NewYorkCity_20250624_DEMCityCouncilD3.tab,2025,3,29587,Erik D. Bottcher,Erik D. Bottcher,Erik D. Bottcher,True,True
+Minneapolis_20091106_Mayor.tab,2009,12,45968,R.T. Rybak,R.T. Rybak,R.T. Rybak,True,True
+Alaska_20241105_StateHouseD9.tab,2024,3,11713,"Holland, Ky","Holland, Ky","Holland, Ky",True,True
+SanFrancisco_20181106_BoardofSupervisorsDistrict10.tab,2018,7,26257,SHAMANN WALTON,SHAMANN WALTON,SHAMANN WALTON,True,True
+SanLeandro_20121106_CountyCouncilDistrict4.tab,2012,5,28703,BENNY LEE,BENNY LEE,BENNY LEE,True,True
+Oakland_20181106_SchoolDirectorDistrict4.tab,2018,2,28244,GARY D. YEE,GARY D. YEE,GARY D. YEE,True,True
+SanLeandro_20121106_CountyCouncilDistrict6.tab,2012,3,28703,JIM PROLA,JIM PROLA,JIM PROLA,True,True
+Oakland_20181106_CityCouncilDistrict4.tab,2018,7,28244,SHENG THAO,SHENG THAO,SHENG THAO,True,True
+SanLeandro_20161108_CountyCouncilDistrict4.tab,2016,1,31790,BENNY LEE,BENNY LEE,BENNY LEE,True,True
+SanLeandro_20181106_CountyCouncilDistrict3.tab,2018,2,27767,"VICTOR AGUILAR, JR.","VICTOR AGUILAR, JR.","VICTOR AGUILAR, JR.",True,True
+Alaska_20241105_StateSenateJ.tab,2024,3,11848,"Dunbar, Forrest","Dunbar, Forrest","Dunbar, Forrest",True,True
+Alaska_20241105_StateSenateP.tab,2024,3,11910,"Kawasaki, Scott","Kawasaki, Scott","Kawasaki, Scott",True,True
+Oakland_20121106_SchoolDirectorDistrict3.tab,2012,4,26761,JUMOKE HINTON HODGE,JUMOKE HINTON HODGE,JUMOKE HINTON HODGE,True,True
+SanFrancisco_20101102_BoardofSupervisorsDistrict2.tab,2010,7,28911,MARK FARRELL,MARK FARRELL,MARK FARRELL,True,True
+NewYorkCity_20210622_REP_CityCouncilD50.tab,2021,6,19850,David M. Carr,David M. Carr,David M. Carr,True,True
+SanFrancisco_20081104_BoardofSupervisorsDistrict9.tab,2008,8,28884,DAVID CAMPOS,DAVID CAMPOS,DAVID CAMPOS,True,True
+SanLeandro_20161108_CountyCouncilDistrict6.tab,2016,1,31790,PETE BALLEW,PETE BALLEW,PETE BALLEW,True,True
+Alaska_20241105_StateHouseD6.tab,2024,4,11868,"Vance, Sarah L.","Vance, Sarah L.","Vance, Sarah L.",True,True
+SanFrancisco_20181106_BoardofSupervisorsDistrict6.tab,2018,3,28872,MATT HANEY,MATT HANEY,MATT HANEY,True,True
+NewYorkCity_20250624_DEMCityCouncilD5.tab,2025,3,33915,Julie Menin,Julie Menin,Julie Menin,True,True
+SanLeandro_20121106_CountyCouncilDistrict2.tab,2012,4,28703,URSULA REED,URSULA REED,URSULA REED,True,True
+PortlandME_20211102_CityCouncilAL.tab,2021,4,21284,,"Rodriguez, Roberto","Mazer, Brandon J.; Rodriguez, Roberto",True,False
+Alaska_20221108_SenateDistrictK.tab,2022,3,11277,"Wielechowski, Bill","Wielechowski, Bill","Wielechowski, Bill",True,True
+SanLeandro_20181106_Mayor.tab,2018,4,27767,PAULINE RUSSO CUTTER,PAULINE RUSSO CUTTER,PAULINE RUSSO CUTTER,True,True
+NewYorkCity_20250624_DEMCityCouncilD1.tab,2025,5,24595,Christopher Marte,Christopher Marte,Christopher Marte,True,True
+SanLeandro_20181106_CountyCouncilDistrict5.tab,2018,2,27767,CORINA N. LOPEZ,CORINA N. LOPEZ,CORINA N. LOPEZ,True,True
+SanFrancisco_20081104_BoardofSupervisorsDistrict1.tab,2008,10,31694,ERIC MAR,ERIC MAR,ERIC MAR,True,True
+SanFrancisco_20081104_BoardofSupervisorsDistrict4.tab,2008,4,31628,CARMEN CHU,CARMEN CHU,CARMEN CHU,True,True
+SanLeandro_20101102_Mayor.tab,2010,7,23494,STEPHEN H. CASSIDY,STEPHEN H. CASSIDY,STEPHEN H. CASSIDY,True,True
+SanFrancisco_20181106_BoardofSupervisorsDistrict4.tab,2018,8,31412,GORDON MAR,GORDON MAR,GORDON MAR,True,True
+Alaska_20221108_SenateDistrictG.tab,2022,3,11945,"Gray-Jackson, Elvi","Gray-Jackson, Elvi","Gray-Jackson, Elvi",True,True
+SanFrancisco_20161108_BoardofSupervisorsDistrict3.tab,2016,2,31521,AARON PESKIN,AARON PESKIN,AARON PESKIN,True,True
+NewYorkCity_20250624_DEMCityCouncilD33.tab,2025,3,34166,Lincoln Restler,Lincoln Restler,Lincoln Restler,True,True
+Oakland_20121106_CityCouncilDistrict3.tab,2012,7,26761,LYNETTE GIBSON-MCELHANEY,LYNETTE GIBSON-MCELHANEY,LYNETTE GIBSON-MCELHANEY,True,True
+SanFrancisco_20161108_BoardofSupervisorsDistrict11.tab,2016,5,28010,AHSHA SAFAI,AHSHA SAFAI,AHSHA SAFAI,True,True
+SanLeandro_20161108_CountyCouncilDistrict2.tab,2016,2,31790,ED HERNANDEZ,ED HERNANDEZ,ED HERNANDEZ,True,True
+NewYorkCity_20210622_REP_BoroughPresidentRichmond.tab,2021,5,19850,Vito Fossella,Vito Fossella,Vito Fossella,True,True
+Oakland_20121106_SchoolDirectorDistrict1.tab,2012,3,34180,JODY LONDON,JODY LONDON,JODY LONDON,True,True
+Oakland_20161108_CityCouncilDistrict3.tab,2016,2,28936,LYNETTE GIBSON MCELHANEY,LYNETTE GIBSON MCELHANEY,LYNETTE GIBSON MCELHANEY,True,True
+SanFrancisco_20081104_BoardofSupervisorsDistrict3.tab,2008,10,30086,DAVID CHIU,DAVID CHIU,DAVID CHIU,True,True
+Oakland_20241105_CityCouncilD5.tab,2024,4,14752,NOEL GALLO,NOEL GALLO,NOEL GALLO,True,True
+NewYorkCity_20250624_DEMCityCouncilD7.tab,2025,4,33277,Shaun Abreu,Shaun Abreu,Shaun Abreu,True,True
+Oakland_20121106_CityCouncilDistrict1.tab,2012,8,34180,DAN KALB,DAN KALB,DAN KALB,True,True
+Oakland_20241105_SchoolDirectorD5.tab,2024,3,14806,PATRICE BERRY,PATRICE BERRY,PATRICE BERRY,True,True
+Oakland_20161108_SchoolDirectorDistrict3.tab,2016,5,28936,JUMOKE HINTON HODGE,JUMOKE HINTON HODGE,JUMOKE HINTON HODGE,True,True
+SanFrancisco_20191105_BoardofSupervisorsDistrict5.tab,2019,5,24765,DEAN PRESTON,DEAN PRESTON,DEAN PRESTON,True,True
+Oakland_20250415_CityCouncilD2.tab,2025,7,13097,CHARLENE WANG,CHARLENE WANG,CHARLENE WANG,True,True
+Oakland_20241105_SchoolDirectorD7.tab,2024,3,15301,CLIFFORD THOMPSON,CLIFFORD THOMPSON,CLIFFORD THOMPSON,True,True
+Alaska_20221108_SenateDistrictA.tab,2022,3,14455,"Stedman, Bert K.","Stedman, Bert K.","Stedman, Bert K.",True,True
+Oakland_20161108_CityCouncilDistrict1.tab,2016,2,37139,DAN KALB,DAN KALB,DAN KALB,True,True
+Oakland_20161108_SchoolDirectorDistrict1.tab,2016,2,37139,JODY LONDON,JODY LONDON,JODY LONDON,True,True
+Oakland_20241105_CityCouncilD7.tab,2024,5,15874,KEN HOUSTON,KEN HOUSTON,KEN HOUSTON,True,True
+Alaska_20221108_SenateDistrictQ.tab,2022,4,13949,"Myers, Robert H. Jr.","Myers, Robert H. Jr.","Myers, Robert H. Jr.",True,True
+Alaska_20221108_SenateDistrictN.tab,2022,4,13776,"Wilson, David S.","Wilson, David S.","Wilson, David S.",True,True
+Alaska_20221108_SenateDistrictB.tab,2022,2,16517,"Kiehl, Jesse","Kiehl, Jesse","Kiehl, Jesse",True,True
+SanFrancisco_20161108_BoardofSupervisorsDistrict9.tab,2016,4,34945,HILLARY RONEN,HILLARY RONEN,HILLARY RONEN,True,True
+Corvallis_20221108_Mayor.tab,2022,4,23879,Charles Maughan,Charles Maughan,Charles Maughan,True,True
+SanFrancisco_20161108_BoardofSupervisorsDistrict1.tab,2016,10,35109,SANDRA LEE FEWER,SANDRA LEE FEWER,SANDRA LEE FEWER,True,True
+Alaska_20221108_SenateDistrictM.tab,2022,3,15591,"Hughes, Shelley","Hughes, Shelley","Hughes, Shelley",True,True
+Alaska_20221108_SenateDistrictF.tab,2022,3,14964,"Kaufman, James D.","Kaufman, James D.","Kaufman, James D.",True,True
+Berkeley_20141104_CityAuditor.tab,2014,1,39092,ANN-MARIE HOGAN,ANN-MARIE HOGAN,ANN-MARIE HOGAN,True,True
+NewYorkCity_20250624_DEMCityCouncilD2.tab,2025,6,30369,Harvey D. Epstein,Harvey D. Epstein,Harvey D. Epstein,True,True
+SanFrancisco_20161108_BoardofSupervisorsDistrict7.tab,2016,5,39486,NORMAN YEE,NORMAN YEE,NORMAN YEE,True,True
+LasCruces_20191105_Mayor.tab,2019,10,14156,KEN MIYAGISHIMA,KEN MIYAGISHIMA,KEN MIYAGISHIMA,True,True
+Burlington_20240305_Mayor.tab,2024,5,14963,EMMA MULVANEY-STANAK,EMMA MULVANEY-STANAK,EMMA MULVANEY-STANAK,True,True
+SanFrancisco_20180605_BoardofSupervisorsDistrict8.tab,2018,3,36067,RAFAEL MANDELMAN,RAFAEL MANDELMAN,RAFAEL MANDELMAN,True,True
+NewYorkCity_20250624_DEMCityCouncilD4.tab,2025,7,29723,Virginia Maloney,Virginia Maloney,Virginia Maloney,True,True
+SanFrancisco_20121106_BoardofSupervisorsDistrict7.tab,2012,9,35351,NORMAN YEE,NORMAN YEE,NORMAN YEE,True,True
+Alaska_20221108_SenateDistrictC.tab,2022,4,15836,"Stevens, Gary","Stevens, Gary","Stevens, Gary",True,True
+SanFrancisco_20081104_BoardofSupervisorsDistrict7.tab,2008,4,36669,SEAN R. ELSBERND,SEAN R. ELSBERND,SEAN R. ELSBERND,True,True
+Alaska_20221108_SenateDistrictO.tab,2022,3,16355,"Shower, Michael K.","Shower, Michael K.","Shower, Michael K.",True,True
+Alaska_20221108_SenateDistrictH.tab,2022,3,15777,"Claman, Matt","Claman, Matt","Claman, Matt",True,True
+Alaska_20221108_SenateDistrictL.tab,2022,3,16332,"Merrick, Kelly R.","Merrick, Kelly R.","Merrick, Kelly R.",True,True
+SanFrancisco_20101102_BoardofSupervisorsDistrict8.tab,2010,5,38551,SCOTT WIENER,SCOTT WIENER,SCOTT WIENER,True,True
+Alaska_20221108_SenateDistrictD.tab,2022,4,16236,"Bjorkman, Jesse J.","Bjorkman, Jesse J.","Bjorkman, Jesse J.",True,True
+Oakland_20221108_SchoolBoardD6.tab,2022,4,16898,VALARIE BACHELOR,VALARIE BACHELOR,VALARIE BACHELOR,True,True
+Oakland_20221108_SchoolBoardD2.tab,2022,4,17851,JENNIFER BROUHARD,JENNIFER BROUHARD,JENNIFER BROUHARD,True,True
+Alaska_20221108_SenateDistrictR.tab,2022,4,15830,"Bishop, Click","Bishop, Click","Bishop, Click",True,True
+PierceCounty_20081104_CountyCouncilDistrict2.tab,2008,4,43661,Joyce McDonald,Joyce McDonald,Joyce McDonald,True,True
+SanFrancisco_20121106_BoardofSupervisorsDistrict5.tab,2012,8,40253,LONDON BREED,LONDON BREED,LONDON BREED,True,True
+Alaska_20241105_StateSenateB.tab,2024,2,20307,"Kiehl, Jesse","Kiehl, Jesse","Kiehl, Jesse",True,True
+SanFrancisco_20181106_BoardofSupervisorsDistrict2.tab,2018,4,39906,CATHERINE STEFANI,CATHERINE STEFANI,CATHERINE STEFANI,True,True
+SanFrancisco_20081104_BoardofSupervisorsDistrict5.tab,2008,4,41175,ROSS MIRKARIMI,ROSS MIRKARIMI,ROSS MIRKARIMI,True,True
+Oakland_20221108_CityCouncilmemberDistrict6.tab,2022,5,16903,KEVIN JENKINS,KEVIN JENKINS,KEVIN JENKINS,True,True
+Alaska_20241105_StateSenateN.tab,2024,4,17668,"Yundt, Robert","Yundt, Robert","Yundt, Robert",True,True
+Berkeley_20101102_CityAuditor.tab,2010,2,45986,ANN-MARIE HOGAN,ANN-MARIE HOGAN,ANN-MARIE HOGAN,True,True
+SanFrancisco_20161108_BoardofSupervisorsDistrict5.tab,2016,2,45531,LONDON BREED,LONDON BREED,LONDON BREED,True,True
+Alaska_20241105_StateSenateH.tab,2024,3,18647,"Claman, Matt","Claman, Matt","Claman, Matt",True,True
+Alaska_20221108_SenateDistrictE.tab,2022,4,17437,"Giessel, Cathy","Giessel, Cathy","Giessel, Cathy",True,True
+SanFrancisco_20221108_BoardofSupervisorsD6.tab,2022,4,18663,MATT DORSEY,MATT DORSEY,MATT DORSEY,True,True
+Alaska_20241105_StateSenateF.tab,2024,4,18062,"Kaufman, James D.","Kaufman, James D.","Kaufman, James D.",True,True
+SanFrancisco_20221108_BoardofSupervisorsD10.tab,2022,2,20674,SHAMANN WALTON,SHAMANN WALTON,SHAMANN WALTON,True,True
+Alaska_20241105_StateSenateR.tab,2024,4,19004,"Cronk, Mike","Cronk, Mike","Cronk, Mike",True,True
+NewYorkCity_20250624_DEMCityCouncilD35.tab,2025,5,40528,Crystal Hudson,Crystal Hudson,Crystal Hudson,True,True
+NewYorkCity_20250624_DEMCityCouncilD39.tab,2025,4,46593,Shahana K. Hanif,Shahana K. Hanif,Shahana K. Hanif,True,True
+Maine_20180612_CD2_DemNominee.tab,2018,4,50845,"Golden, Jared F.","Golden, Jared F.","Golden, Jared F.",True,True
+Oakland_20201103_CityCouncilD5.tab,2020,4,19777,NOEL GALLO,NOEL GALLO,NOEL GALLO,True,True
+Alaska_20241105_StateSenateD.tab,2024,4,20220,"Bjorkman, Jesse J.","Bjorkman, Jesse J.","Bjorkman, Jesse J.",True,True
+SanFrancisco_20181106_BoardofSupervisorsDistrict8.tab,2018,2,48049,RAFAEL MANDELMAN,RAFAEL MANDELMAN,RAFAEL MANDELMAN,True,True
+Oakland_20201103_SchoolDirectorDist5.tab,2020,5,19777,MIKE HUTCHINSON,MIKE HUTCHINSON,MIKE HUTCHINSON,True,True
+Oakland_20201103_CityCouncilD7.tab,2020,6,21404,TREVA REID,TREVA REID,TREVA REID,True,True
+Alaska_20241105_StateSenateL.tab,2024,4,20475,"Merrick, Kelly R.","Merrick, Kelly R.","Merrick, Kelly R.",True,True
+Oakland_20201103_SchoolDirectorDist7.tab,2020,6,20748,CLIFFORD THOMPSON,CLIFFORD THOMPSON,CLIFFORD THOMPSON,True,True
+Berkeley_20181106_CityAuditor.tab,2018,2,57217,JENNY WONG,JENNY WONG,JENNY WONG,True,True
+Oakland_20241105_SchoolDirectorD3.tab,2024,3,24632,VANCEDRIC WILLIAMS,VANCEDRIC WILLIAMS,VANCEDRIC WILLIAMS,True,True
+Oakland_20241105_CityCouncilD3.tab,2024,7,24597,CARROLL FIFE,CARROLL FIFE,CARROLL FIFE,True,True
+NewYorkCity_20210622_DEM_CityCouncilD49.tab,2021,10,43503,Kamillah Hanks,Kamillah Hanks,Kamillah Hanks,True,True
+Berkeley_20121106_Mayor.tab,2012,8,57492,TOM BATES,TOM BATES,TOM BATES,True,True
+PortlandME_20241105_CityCouncilAtLarge.tab,2024,6,39765,"Grant, Benjamin K.","Grant, Benjamin K.","Grant, Benjamin K.",True,True
+SanFrancisco_20221108_BoardofSupervisorsD4.tab,2022,2,30085,JOEL ENGARDIO,JOEL ENGARDIO,JOEL ENGARDIO,True,True
+Maine_20200714_CD2_RepNominee.tab,2020,3,58506,"Crafts, Dale John","Crafts, Dale John","Crafts, Dale John",True,True
+SanFrancisco_20201103_BoardOfSupervisorsD11.tab,2020,4,34262,AHSHA SAFAI,AHSHA SAFAI,AHSHA SAFAI,True,True
+Minneapolis_20131105_Mayor.tab,2013,36,80101,BETSY HODGES,BETSY HODGES,BETSY HODGES,True,True
+Oakland_20221108_SchoolBoardD4.tab,2022,4,30983,,MIKE HUTCHINSON,MIKE HUTCHINSON; NICK RESNICK; PECOLIA MANIGO,True,False
+Oakland_20221108_CityCouncilmemberDistrict4.tab,2022,3,30983,JANANI RAMACHANDRAN,JANANI RAMACHANDRAN,JANANI RAMACHANDRAN,True,True
+NewYorkCity_20210622_DEM_BoroughPresidentRichmond.tab,2021,6,43503,Mark S. Murphy,Mark S. Murphy,Mark S. Murphy,True,True
+Berkeley_20161108_Mayor.tab,2016,8,63744,JESSE ARREGUÍN,JESSE ARREGUÍN,JESSE ARREGUÍN,True,True
+SanFrancisco_20221108_BoardofSupervisorsD2.tab,2022,1,31877,CATHERINE STEFANI,CATHERINE STEFANI,CATHERINE STEFANI,True,True
+SanFrancisco_20201103_BoardOfSupervisorsD9.tab,2020,2,36969,HILLARY RONEN,HILLARY RONEN,HILLARY RONEN,True,True
+SanFrancisco_20201103_BoardOfSupervisorsD3.tab,2020,4,32889,AARON PESKIN,AARON PESKIN,AARON PESKIN,True,True
+SanFrancisco_20071106_Mayor.tab,2007,13,149465,Gavin Newsom,Gavin Newsom,Gavin Newsom,True,True
+Oakland_20201103_SchoolDirectorDist3.tab,2020,6,34417,VANCEDRIC WILLIAMS,VANCEDRIC WILLIAMS,VANCEDRIC WILLIAMS,True,True
+SanLeandro_20201103_CityCouncilD6.tab,2020,2,39821,PETE BALLEW,PETE BALLEW,PETE BALLEW,True,True
+SanFrancisco_20241105_BoS_D5.tab,2024,5,34405,BILAL MAHMOOD,BILAL MAHMOOD,BILAL MAHMOOD,True,True
+Oakland_20201103_CityCouncilD3.tab,2020,7,34417,CARROLL FIFE,CARROLL FIFE,CARROLL FIFE,True,True
+SanFrancisco_20241105_BoS_D3.tab,2024,6,33672,DANNY SAUTER,DANNY SAUTER,DANNY SAUTER,True,True
+Minneapolis_20171107_Mayor.tab,2017,19,105928,Jacob Frey,Jacob Frey,Jacob Frey,True,True
+SanLeandro_20201103_CityCouncilD2.tab,2020,3,39821,BRYAN AZEVEDO,BRYAN AZEVEDO,BRYAN AZEVEDO,True,True
+Oakland_20241105_CityCouncilD1.tab,2024,4,35257,ZAC UNGER,ZAC UNGER,ZAC UNGER,True,True
+SanLeandro_20201103_CityCouncilD4.tab,2020,3,39821,FRED SIMON,FRED SIMON,FRED SIMON,True,True
+Oakland_20241105_SchoolDirectorD1.tab,2024,3,35367,RACHEL LATTA,RACHEL LATTA,RACHEL LATTA,True,True
+SanFrancisco_20241105_BoS_D11.tab,2024,7,32274,CHYANNE CHEN,CHYANNE CHEN,CHYANNE CHEN,True,True
+SanFrancisco_20221108_BoardofSupervisorsD8.tab,2022,2,42258,RAFAEL MANDELMAN,RAFAEL MANDELMAN,RAFAEL MANDELMAN,True,True
+Oakland_20201103_SchoolDirectorDist1.tab,2020,4,41006,SAM DAVIS,SAM DAVIS,SAM DAVIS,True,True
+Oakland_20201103_CityCouncilD1.tab,2020,4,41006,DAN KALB,DAN KALB,DAN KALB,True,True
+SanFrancisco_20241105_BoS_D1.tab,2024,5,39257,CONNIE CHAN,CONNIE CHAN,CONNIE CHAN,True,True
+Oakland_20141104_CityAuditor.tab,2014,2,104834,BRENDA ROBERTS,BRENDA ROBERTS,BRENDA ROBERTS,True,True
+NewYorkCity_20210622_REP_CityCouncilD15.tab,2021,3,127235,Ariel Rivera-Diaz,Ariel Rivera-Diaz,Ariel Rivera-Diaz,True,True
+SanFrancisco_20201103_BoardOfSupervisorsD5.tab,2020,4,46417,DEAN PRESTON,DEAN PRESTON,DEAN PRESTON,True,True
+NewYorkCity_20210622_DEM_CityCouncilD17.tab,2021,3,127235,Rafael Salamanca Jr.,Rafael Salamanca Jr.,Rafael Salamanca Jr.,True,True
+SanFrancisco_20241105_BoS_D7.tab,2024,4,42846,MYRNA MELGAR,MYRNA MELGAR,MYRNA MELGAR,True,True
+Oakland_20141104_Mayor.tab,2014,16,104834,LIBBY SCHAAF,LIBBY SCHAAF,LIBBY SCHAAF,True,True
+SanFrancisco_20241105_BoS_D9.tab,2024,7,37091,JACKIE FIELDER,JACKIE FIELDER,JACKIE FIELDER,True,True
+SanFrancisco_20201103_BoardOfSupervisorsD1.tab,2020,7,39909,CONNIE CHAN,CONNIE CHAN,CONNIE CHAN,True,True
+SanFrancisco_20051108_Treasurer.tab,2005,4,225370,Jose Cisneros,Jose Cisneros,Jose Cisneros,True,True
+SanFrancisco_20051108_AssessorRecorder.tab,2005,4,225370,Phil Ting,Phil Ting,Phil Ting,True,True
+SanFrancisco_20201103_BoardOfSupervisorsD7.tab,2020,7,43426,MYRNA MELGAR,MYRNA MELGAR,MYRNA MELGAR,True,True
+Minneapolis_20211102_Mayor.tab,2021,19,145337,Jacob Frey,Jacob Frey,Jacob Frey,True,True
+Oakland_20101102_CityAuditor.tab,2010,3,122268,COURTNEY RUBY,COURTNEY RUBY,COURTNEY RUBY,True,True
+Oakland_20101102_Mayor.tab,2010,11,122268,JEAN QUAN,JEAN QUAN,JEAN QUAN,True,True
+NewYorkCity_20210622_DEM_CityCouncilD12.tab,2021,4,127235,Kevin Riley,Kevin Riley,Kevin Riley,True,True
+Berkeley_20241105_Mayor.tab,2024,6,59268,ADENA ISHII,ADENA ISHII,ADENA ISHII,True,True
+Boulder_20231107_Mayor.tab,2023,4,118787,Brockett,Brockett,Brockett,True,True
+NewYorkCity_20210622_DEM_CityCouncilD15.tab,2021,9,127235,Oswald Feliz,Oswald Feliz,Oswald Feliz,True,True
+NewYorkCity_20210622_DEM_CityCouncilD13.tab,2021,6,127235,Marjorie Velazquez,Marjorie Velazquez,Marjorie Velazquez,True,True
+NewYorkCity_20210622_DEM_CityCouncilD14.tab,2021,7,127235,Pierina Ana Sanchez,Pierina Ana Sanchez,Pierina Ana Sanchez,True,True
+NewYorkCity_20210622_DEM_CityCouncilD16.tab,2021,5,127235,Althea V. Stevens,Althea V. Stevens,Althea V. Stevens,True,True
+NewYorkCity_20210622_DEM_CityCouncilD11.tab,2021,8,127235,Eric Dinowitz,Eric Dinowitz,Eric Dinowitz,True,True
+NewYorkCity_20210622_DEM_CityCouncilD18.tab,2021,9,127235,Amanda Farias,Amanda Farias,Amanda Farias,True,True
+PierceCounty_20091103_CountyAuditor.tab,2009,4,159987,Julie Anderson,Julie Anderson,Julie Anderson,True,True
+Oakland_20121106_CityAttorney.tab,2012,3,156832,BARBARA PARKER,BARBARA PARKER,BARBARA PARKER,True,True
+Berkeley_20201103_Mayor.tab,2020,5,64074,JESSE ARREGUÍN,JESSE ARREGUÍN,JESSE ARREGUÍN,True,True
+Oakland_20181106_CityAuditor.tab,2018,2,164775,COURTNEY RUBY,COURTNEY RUBY,COURTNEY RUBY,True,True
+Oakland_20181106_Mayor.tab,2018,10,164775,LIBBY SCHAAF,LIBBY SCHAAF,LIBBY SCHAAF,True,True
+NewYorkCity_20210622_CON_CityCouncilD19.tab,2021,3,200016,John-Alexander Sakelos,John-Alexander Sakelos,John-Alexander Sakelos,True,True
+NewYorkCity_20210622_DEM_BoroughPresidentBronx.tab,2021,6,127235,Vanessa L. Gibson,Vanessa L. Gibson,Vanessa L. Gibson,True,True
+NewYorkCity_20210622_REP_CityCouncilD24.tab,2021,3,201299,Timothy Rosen,Timothy Rosen,Timothy Rosen,True,True
+NewYorkCity_20210622_REP_CityCouncilD23.tab,2021,3,201299,James F. Reilly,James F. Reilly,James F. Reilly,True,True
+NewYorkCity_20210622_REP_CityCouncilD32.tab,2021,3,201299,Joann Ariola,Joann Ariola,Joann Ariola,True,True
+NewYorkCity_20210622_REP_CityCouncilD19.tab,2021,3,201299,Vickie Paladino,Vickie Paladino,Vickie Paladino,True,True
+Oakland_20121106_CityCouncilAtLarge.tab,2012,6,156832,REBECCA KAPLAN,REBECCA KAPLAN,REBECCA KAPLAN,True,True
+Oakland_20161108_CityAttorney.tab,2016,1,177631,BARBARA J. PARKER,BARBARA J. PARKER,BARBARA J. PARKER,True,True
+Oakland_20161108_CouncilAtLarge.tab,2016,5,177631,REBECCA KAPLAN,REBECCA KAPLAN,REBECCA KAPLAN,True,True
+Maine_20180612_Governor_DemNominee.tab,2018,8,132250,"Mills, Janet T.","Mills, Janet T.","Mills, Janet T.",True,True
+SanFrancisco_20111108_Mayor.tab,2011,17,197242,ED LEE,ED LEE,ED LEE,True,True
+SanFrancisco_20111108_DistrictAttorney.tab,2011,5,197242,GEORGE GASCÓN,GEORGE GASCÓN,GEORGE GASCÓN,True,True
+SanFrancisco_20111108_Sheriff.tab,2011,4,197242,ROSS MIRKARIMI,ROSS MIRKARIMI,ROSS MIRKARIMI,True,True
+SanFrancisco_20151103_Mayor.tab,2015,7,203069,ED LEE,ED LEE,ED LEE,True,True
+SanFrancisco_20151103_Sheriff.tab,2015,3,203069,VICKI HENNESSY,VICKI HENNESSY,VICKI HENNESSY,True,True
+Oakland_20250415_Mayor.tab,2025,11,95033,BARBARA LEE,BARBARA LEE,BARBARA LEE,True,True
+SanFrancisco_20191105_Sheriff.tab,2019,2,206117,PAUL MIYAMOTO,PAUL MIYAMOTO,PAUL MIYAMOTO,True,True
+SanFrancisco_20191105_Treasurer.tab,2019,2,206117,JOSÉ CISNEROS,JOSÉ CISNEROS,JOSÉ CISNEROS,True,True
+NewYorkCity_20210622_DEM_CityCouncilD30.tab,2021,3,266164,Robert F. Holden,Robert F. Holden,Robert F. Holden,True,True
+SanFrancisco_20191105_CityAttorney.tab,2019,2,206117,DENNIS J. HERRERA,DENNIS J. HERRERA,DENNIS J. HERRERA,True,True
+SanFrancisco_20180605_Mayor.tab,2018,9,254016,LONDON BREED,LONDON BREED,LONDON BREED,True,True
+SanFrancisco_20191105_PublicDefender.tab,2019,2,206117,"MANOHAR \MANO\"" RAJU","MANOHAR \MANO\"" RAJU","MANOHAR \MANO\"" RAJU",True,True
+SanFrancisco_20191105_DistrictAttorney.tab,2019,5,206117,CHESA BOUDIN,CHESA BOUDIN,CHESA BOUDIN,True,True
+NewYorkCity_20210622_DEM_CityCouncilD28.tab,2021,4,266164,Adrienne E. Adams,Adrienne E. Adams,Adrienne E. Adams,True,True
+Maine_20181106_CongressionalDistrict2.tab,2018,4,296077,"DEM Golden, Jared F.","DEM Golden, Jared F.","DEM Golden, Jared F.",True,True
+NewYorkCity_20210622_DEM_CityCouncilD31.tab,2021,4,266164,Selvena N. Brooks-Powers,Selvena N. Brooks-Powers,Selvena N. Brooks-Powers,True,True
+PortlandOR_20241105_Auditor.tab,2024,2,332969,Simone.Rede,Simone.Rede,Simone.Rede,True,True
+Oakland_20221108_CityAuditor.tab,2022,2,133527,COURTNEY RUBY,COURTNEY RUBY,COURTNEY RUBY,True,True
+PierceCounty_20081104_CountyAssessorTreasurer.tab,2008,7,312771,Dale Washam,Dale Washam,Dale Washam,True,True
+NewYorkCity_20210622_DEM_CityCouncilD41.tab,2021,3,336070,Darlene Mealy,Darlene Mealy,Darlene Mealy,True,True
+PierceCounty_20081104_CountyExecutiveMember.tab,2008,5,312771,Pat McCarthy,Pat McCarthy,Pat McCarthy,True,True
+NewYorkCity_20210622_DEM_CityCouncilD2.tab,2021,3,267513,Carlina Rivera,Carlina Rivera,Carlina Rivera,True,True
+NewYorkCity_20210622_DEM_CityCouncilD20.tab,2021,9,266164,Sandra Ung,Sandra Ung,Sandra Ung,True,True
+NewYorkCity_20210622_DEM_CityCouncilD21.tab,2021,6,266164,Francisco P. Moya,Francisco P. Moya,Francisco P. Moya,True,True
+NewYorkCity_20210622_DEM_CityCouncilD24.tab,2021,5,266164,James F. Gennaro,James F. Gennaro,James F. Gennaro,True,True
+NewYorkCity_20210622_DEM_CityCouncilD32.tab,2021,7,266164,Felicia Singh,Felicia Singh,Felicia Singh,True,True
+NewYorkCity_20210622_DEM_CityCouncilD19.tab,2021,7,266164,Tony Avella,Tony Avella,Tony Avella,True,True
+NewYorkCity_20210622_DEM_CityCouncilD23.tab,2021,8,266164,Linda Lee,Linda Lee,Linda Lee,True,True
+NewYorkCity_20210622_DEM_CityCouncilD25.tab,2021,9,266164,Shekar Krishnan,Shekar Krishnan,Shekar Krishnan,True,True
+NewYorkCity_20210622_DEM_CityCouncilD26.tab,2021,16,266164,Julie Won,Julie Won,Julie Won,True,True
+NewYorkCity_20210622_DEM_CityCouncilD29.tab,2021,10,266164,Lynn C. Schulman,Lynn C. Schulman,Lynn C. Schulman,True,True
+NewYorkCity_20210622_DEM_CityCouncilD27.tab,2021,13,266164,Nantasha M. Williams,Nantasha M. Williams,Nantasha M. Williams,True,True
+Oakland_20221108_Mayor.tab,2022,11,133527,SHENG THAO,SHENG THAO,SHENG THAO,True,True
+NewYorkCity_20210622_DEM_CityCouncilD45.tab,2021,4,336070,Farah N. Louis,Farah N. Louis,Farah N. Louis,True,True
+SanFrancisco_20181106_PublicDefender.tab,2018,1,368578,JEFF ADACHI,JEFF ADACHI,JEFF ADACHI,True,True
+SanFrancisco_20181106_AssessorRecorder.tab,2018,2,368578,CARMEN CHU,CARMEN CHU,CARMEN CHU,True,True
+NewYorkCity_20210622_DEM_BoroughPresidentQueens.tab,2021,4,266164,Donovan J. Richards Jr.,Donovan J. Richards Jr.,Donovan J. Richards Jr.,True,True
+SanFrancisco_20191105_Mayor.tab,2019,8,206117,LONDON N. BREED,LONDON N. BREED,LONDON N. BREED,True,True
+NewYorkCity_20210622_DEM_CityCouncilD1.tab,2021,10,267513,Christopher Marte,Christopher Marte,Christopher Marte,True,True
+NewYorkCity_20210622_DEM_CityCouncilD47.tab,2021,5,336070,Ari Kagan,Ari Kagan,Ari Kagan,True,True
+NewYorkCity_20210622_DEM_CityCouncilD38.tab,2021,7,336070,Alexa Aviles,Alexa Aviles,Alexa Aviles,True,True
+NewYorkCity_20210622_DEM_CityCouncilD37.tab,2021,7,336070,Sandy Nurse,Sandy Nurse,Sandy Nurse,True,True
+NewYorkCity_20210622_DEM_CityCouncilD48.tab,2021,6,336070,Steven Saperstein,Steven Saperstein,Steven Saperstein,True,True
+NewYorkCity_20210622_DEM_CityCouncilD10.tab,2021,9,267513,Carmen N. De La Rosa,Carmen N. De La Rosa,Carmen N. De La Rosa,True,True
+NewYorkCity_20210622_DEM_CityCouncilD6.tab,2021,7,267513,Gale A. Brewer,Gale A. Brewer,Gale A. Brewer,True,True
+NewYorkCity_20210622_DEM_CityCouncilD42.tab,2021,5,336070,Charles Barron,Charles Barron,Charles Barron,True,True
+NewYorkCity_20210622_DEM_CityCouncilD7.tab,2021,13,267513,Shaun Abreu,Shaun Abreu,Shaun Abreu,True,True
+NewYorkCity_20210622_DEM_CityCouncilD5.tab,2021,8,267513,Julie Menin,Julie Menin,Julie Menin,True,True
+NewYorkCity_20210622_DEM_CityCouncilD36.tab,2021,6,336070,Chi A. Osse,Chi A. Osse,Chi A. Osse,True,True
+NewYorkCity_20210622_DEM_CityCouncilD46.tab,2021,9,336070,Mercedes Narcisse,Mercedes Narcisse,Mercedes Narcisse,True,True
+NewYorkCity_20210622_DEM_CityCouncilD3.tab,2021,7,267513,Erik D. Bottcher,Erik D. Bottcher,Erik D. Bottcher,True,True
+NewYorkCity_20210622_DEM_CityCouncilD9.tab,2021,14,267513,Kristin Richardson Jordan,Kristin Richardson Jordan,Kristin Richardson Jordan,True,True
+NewYorkCity_20210622_DEM_CityCouncilD40.tab,2021,12,336070,Rita C. Joseph,Rita C. Joseph,Rita C. Joseph,True,True
+NewYorkCity_20210622_DEM_CityCouncilD33.tab,2021,9,336070,Lincoln Restler,Lincoln Restler,Lincoln Restler,True,True
+NewYorkCity_20210622_DEM_CityCouncilD39.tab,2021,8,336070,Shahana K. Hanif,Shahana K. Hanif,Shahana K. Hanif,True,True
+NewYorkCity_20210622_DEM_CityCouncilD35.tab,2021,8,336070,Crystal Hudson,Crystal Hudson,Crystal Hudson,True,True
+Maine_20221108_CongressionalDistrict2.tab,2022,4,322778,"Golden, Jared Forrest","Golden, Jared Forrest","Golden, Jared Forrest",True,True
+Oakland_20241105_CityAttorney.tab,2024,3,173002,RYAN RICHARDSON,RYAN RICHARDSON,RYAN RICHARDSON,True,True
+NewYorkCity_20210622_DEM_BoroughPresidentNewYork.tab,2021,8,267513,Mark D. Levine,Mark D. Levine,Mark D. Levine,True,True
+Oakland_20241105_CityCouncil_AtLarge.tab,2024,11,173002,ROWENA BROWN,ROWENA BROWN,ROWENA BROWN,True,True
+Maine_20241105_CD2.tab,2024,3,402936,"Golden, Jared Forrest","Golden, Jared Forrest","Golden, Jared Forrest",True,True
+NewYorkCity_20210622_DEM_CityCouncilD22.tab,2021,7,393399,Tiffany Caban,Tiffany Caban,Tiffany Caban,True,True
+NewYorkCity_20210622_DEM_BoroughPresidentKings.tab,2021,13,336070,Antonio Reynoso,Antonio Reynoso,Antonio Reynoso,True,True
+Oakland_20201103_CityAttorney.tab,2020,3,204976,BARBARA PARKER,BARBARA PARKER,BARBARA PARKER,True,True
+Alaska_20220816_USHouse_Special.tab,2022,4,192289,"Begich, Nick","Peltola, Mary S.","Begich, Nick",False,False
+Oakland_20201103_CityCouncilAtLarge.tab,2020,4,204976,REBECCA KAPLAN,REBECCA KAPLAN,REBECCA KAPLAN,True,True
+NewYorkCity_20210622_DEM_CityCouncilD8.tab,2021,5,394748,Diana I. Ayala,Diana I. Ayala,Diana I. Ayala,True,True
+PortlandOR_20241105_Mayor.tab,2024,21,332969,Keith.Wilson,Keith.Wilson,Keith.Wilson,True,True
+NewYorkCity_20210622_REP_Mayor.tab,2021,3,660657,Curtis A. Sliwa,Curtis A. Sliwa,Curtis A. Sliwa,True,True
+SanFrancisco_20221108_AssessorRecorder.tab,2022,1,308340,JOAQUÍN TORRES,JOAQUÍN TORRES,JOAQUÍN TORRES,True,True
+SanFrancisco_20221108_PublicDefender.tab,2022,2,308340,MANO RAJU,MANO RAJU,MANO RAJU,True,True
+NewYorkCity_20210622_DEM_CityCouncilD34.tab,2021,5,602234,Jennifer Gutierrez,Jennifer Gutierrez,Jennifer Gutierrez,True,True
+Alaska_20221108_USRepresentative.tab,2022,5,266797,"Peltola, Mary S.","Peltola, Mary S.","Peltola, Mary S.",True,True
+Alaska_20221108_GovernorLieutenantGovernor.tab,2022,5,266693,Dunleavy/Dahlstrom,Dunleavy/Dahlstrom,Dunleavy/Dahlstrom,True,True
+Alaska_20221108_USSenator.tab,2022,5,266797,"Murkowski, Lisa","Murkowski, Lisa","Murkowski, Lisa",True,True
+SanFrancisco_20221108_DistrictAttorney.tab,2022,4,308340,BROOKE JENKINS,BROOKE JENKINS,BROOKE JENKINS,True,True
+NewYorkCity_20250624_DEMBoroughPresidentBronx.tab,2025,3,1108275,Vanessa L. Gibson,Vanessa L. Gibson,Vanessa L. Gibson,True,True
+Alaska_20241105_US_House.tab,2024,5,336704,"Begich, Nick","Begich, Nick","Begich, Nick",True,True
+NewYorkCity_20250624_DEMBoroughPresidentKings.tab,2025,3,1108275,Antonio Reynoso,Antonio Reynoso,Antonio Reynoso,True,True
+SanFrancisco_20241105_CityAttorney.tab,2024,2,410105,DAVID CHIU,DAVID CHIU,DAVID CHIU,True,True
+SanFrancisco_20241105_Treasurer.tab,2024,1,410105,JOSÉ CISNEROS,JOSÉ CISNEROS,JOSÉ CISNEROS,True,True
+SanFrancisco_20241105_Sheriff.tab,2024,2,410105,PAUL MIYAMOTO,PAUL MIYAMOTO,PAUL MIYAMOTO,True,True
+SanFrancisco_20241105_DistrictAttorney.tab,2024,2,410105,BROOKE JENKINS,BROOKE JENKINS,BROOKE JENKINS,True,True
+NewYorkCity_20250624_DEMBoroughPresidentManhattan.tab,2025,4,1108275,Brad Hoylman-Sigal,Brad Hoylman-Sigal,Brad Hoylman-Sigal,True,True
+NewYorkCity_20250624_DEMPublicAdvocate.tab,2025,4,1108275,Jumaane D. Williams,Jumaane D. Williams,Jumaane D. Williams,True,True
+NewYorkCity_20250624_DEMComptroller.tab,2025,5,1108275,Mark D. Levine,Mark D. Levine,Mark D. Levine,True,True
+SanFrancisco_20241105_Mayor.tab,2024,15,410105,DANIEL LURIE,DANIEL LURIE,DANIEL LURIE,True,True
+NewYorkCity_20210622_DEM_PublicAdvocateCitywide.tab,2021,4,1040485,Jumaane D. Williams,Jumaane D. Williams,Jumaane D. Williams,True,True
+NewYorkCity_20210622_DEM_Comptroller.tab,2021,11,1040485,Brad Lander,Brad Lander,Brad Lander,True,True
+NewYorkCity_20250624_DEMMayorCitywide.tab,2025,12,1108275,Zohran Kwame Mamdani,Zohran Kwame Mamdani,Zohran Kwame Mamdani,True,True
+NewYorkCity_20210622_DEM_Mayor.tab,2021,14,1040485,Eric L. Adams,Eric L. Adams,Eric L. Adams,True,True
+Alaska_20241105_President.tab,2024,8,340778,Trump/Vance,Trump/Vance,Trump/Vance,True,True
